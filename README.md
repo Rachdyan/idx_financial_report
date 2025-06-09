@@ -37,13 +37,22 @@
     - [Testing](#testing)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
+- [License](#license)
 - [Acknowledgments](#acknowledgments)
+
 
 ---
 
-## Overview
-Automated pipeline to scrape, process, and combine financial reports from the Indonesia Stock Exchange (IDX) into structured Excel outputs.
+## Background
+For investors, analysts, and researchers, gathering and analyzing financial data from publicly listed companies on the Indonesia Stock Exchange (IDX) is a critical yet often tedious process. Manually downloading, extracting, and combining data from numerous financial reports consumes a significant amount of time and effort.
+
+While several services and websites provide aggregated financial data, they often come with their own set of limitations:
+
+- Normalized and Opaque Data: The data provided is typically normalized according to the service's internal standards. This can obscure the nuances and specific details present in the company's original financial statements, making it less representative of the raw figures.
+- Lack of Data Exportability: Many of these platforms do not allow users to export the raw data. This restricts the ability to perform custom, in-depth analysis and exploration using your own tools and methodologies.
+
+This project aims to solve these problems by providing a tool to directly scrape financial report data from the source, ensuring that the data is raw, unfiltered, and readily available for your own analytical needs
+
 
 ---
 
