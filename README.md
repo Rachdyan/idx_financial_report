@@ -37,19 +37,19 @@
     - [Testing](#testing)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [License](#license)
+- [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - [Acknowledgments](#acknowledgments)
 
 ---
 
 ## Overview
-A Python tool to download financial reports from the Indonesia Stock Exchange (IDX) website and export them to Excel format.
+Automated pipeline to scrape, process, and combine financial reports from the Indonesia Stock Exchange (IDX) into structured Excel outputs.
 
 ---
 
 ## Features
 
-- Automated scraping of financial reports from [idx.co.id](https://www.idx.co.id)
+- Automated scraping and combining of financial reports from [idx.co.id](https://www.idx.co.id)
 - Supports quarterly dan annual financial statements
 - Outputs clean Excel files with structured data
 - Configurable date range filtering
@@ -154,13 +154,26 @@ Build idx_financial_report from the source and intsall dependencies:
 
 3. **Install the dependencies:**
 
-pip install -r requirements.txt
+    ```sh
+    ❯ pip install -r requirements.txt
+    ```
 
 ### Usage
 
 Launch the notebook with:
 
-jupyter notebook get_financial_report.ipynb
+    ```sh
+    ❯ jupyter notebook get_financial_report.ipynb
+    ```
+
+---
+
+## 🌐 Data Source
+
+Official IDX Financial Reports Portal:
+https://www.idx.co.id/primary/ListedCompany/FinancialReport
+
+---
 
 ---
 
@@ -215,7 +228,7 @@ jupyter notebook get_financial_report.ipynb
 
 ## License
 
-Idx_financial_report is protected under the [LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+Idx_financial_report is protected under the [MIT](https://choosealicense.com/licenses/mit/) License. For more details, refer to the [MIT](https://choosealicense.com/licenses/mit/) file.
 
 ---
 
