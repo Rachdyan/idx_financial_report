@@ -37,7 +37,7 @@
     - [Testing](#testing)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -162,9 +162,9 @@ Build idx_financial_report from the source and intsall dependencies:
 
 Launch the notebook with:
 
-    ```sh
+    
     ❯ jupyter notebook get_financial_report.ipynb
-    ```
+    
 
 ---
 
@@ -173,7 +173,6 @@ Launch the notebook with:
 Official IDX Financial Reports Portal:
 https://www.idx.co.id/primary/ListedCompany/FinancialReport
 
----
 
 ---
 
