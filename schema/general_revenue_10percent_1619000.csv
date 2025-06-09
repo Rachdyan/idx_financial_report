@@ -1,0 +1,24 @@
+xbrl_name,formatted_name
+PartyName_Party1Member,Pihak 1 - Nama
+SalesAndRevenueMoreThan10Percent_Party1Member,Pihak 1 - Jumlah
+PartyName_Party2Member,Pihak 2 - Nama
+SalesAndRevenueMoreThan10Percent_Party2Member,Pihak 2 - Jumlah
+PartyName_Party3Member,Pihak 3 - Nama
+SalesAndRevenueMoreThan10Percent_Party3Member,Pihak 3 - Jumlah
+PartyName_Party4Member,Pihak 4 - Nama
+SalesAndRevenueMoreThan10Percent_Party4Member,Pihak 4 - Jumlah
+PartyName_Party5Member,Pihak 5 - Nama
+SalesAndRevenueMoreThan10Percent_Party5Member,Pihak 5 - Jumlah
+PartyName_Party6Member,Pihak 6 - Nama
+SalesAndRevenueMoreThan10Percent_Party6Member,Pihak 6 - Jumlah
+PartyName_Party7Member,Pihak 7 - Nama
+SalesAndRevenueMoreThan10Percent_Party7Member,Pihak 7 - Jumlah
+PartyName_Party8Member,Pihak 8 - Nama
+SalesAndRevenueMoreThan10Percent_Party8Member,Pihak 8 - Jumlah
+PartyName_Party9Member,Pihak 9 - Nama
+SalesAndRevenueMoreThan10Percent_Party9Member,Pihak 9 - Jumlah
+PartyName_Party10Member,Pihak 10 - Nama
+SalesAndRevenueMoreThan10Percent_Party10Member,Pihak 10 - Jumlah
+PartyName_OtherPartiesWithRevenueMoreThan10PercentMember,Pihak lainnya - Nama
+SalesAndRevenueMoreThan10Percent_OtherPartiesWithRevenueMoreThan10PercentMember,Pihak lainnya - Jumlah
+SalesAndRevenueMoreThan10Percent_CurrentYearDuration,Pihak dengan pendapatan lebih dari 10%

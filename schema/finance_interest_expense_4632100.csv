@@ -1,0 +1,23 @@
+xbrl_name,formatted_name
+TimeDepositsInterestExpense,Deposito berjangka
+SavingDepositsInterestExpense,Tabungan
+BorrowingsInterestExpense,Pinjaman yang diterima
+PremiumOnThirdPartyFundGuarantees,Premi penjaminan dana pihak ketiga
+CurrentAccountsInterestExpense,Giro
+SecuritiesIssuedInterestExpense,Efek-efek yang diterbitkan
+SubordinatedSecuritiesInterestExpense,Pinjaman dan efek-efek subordinasi
+OthersInterestExpenseInterestExpense,Lain-lain
+SubtotalInterestExpense,Subjumlah beban bunga
+MudharabahDepositsExpense,Beban deposito mudharabah
+MudharabahSavingsExpense,Beban tabungan mudharabah
+MudharabahDemandDepositsExpense,Beban giro mudharabah
+MudharabahFinancingExpense,Beban pinjamam mudharabah
+RelatedInvestmentExpense,Beban investasi terikat
+Musytarakah-MudharabahMusytarakahExpense,Musytarakah - mudharabah musytarakah
+MudharabahInvestmentCertificateExpense,Sertifikat investasi mudharabah antarbank
+SukukExpense,Sukuk
+MurabahahReceivablesExpense,Piutang murabahah
+QardhFundExpense,Pinjaman qardh
+OtherShariaExpense,Lain-lain
+SubtotalShariaExpense,Subjumlah beban syariah dan hak pihak ketiga atas bagi hasil dana syirkah temporer
+TotalInterestAndShariaExpense,Jumlah beban bunga dan syariah

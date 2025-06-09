@@ -1,0 +1,127 @@
+xbrl_name,formatted_name
+TotalLoansGross_RupiahMember_WorkingCapitalMember,Modal kerja - Rupiah - Total
+TotalLoansGross_RupiahMember_WorkingCapitalMember_CurrentMember,Modal kerja - Rupiah - Lancar
+TotalLoansGross_RupiahMember_WorkingCapitalMember_SpecialMention,Modal kerja - Rupiah - Dalam perhatian khusus
+TotalLoansGross_RupiahMember_WorkingCapitalMember_Substandard,Modal kerja - Rupiah - Kurang lancar
+TotalLoansGross_RupiahMember_WorkingCapitalMember_Doubtful,Modal kerja - Rupiah - Diragukan
+TotalLoansGross_RupiahMember_WorkingCapitalMember_Loss,Modal kerja - Rupiah - Macet
+TotalLoansGross_RupiahMember_InvestmentMember,Investasi - Rupiah - Total
+TotalLoansGross_RupiahMember_InvestmentMember_CurrentMember,Investasi - Rupiah - Lancar
+TotalLoansGross_RupiahMember_InvestmentMember_SpecialMention,Investasi - Rupiah - Dalam perhatian khusus
+TotalLoansGross_RupiahMember_InvestmentMember_Substandard,Investasi - Rupiah - Kurang lancar
+TotalLoansGross_RupiahMember_InvestmentMember_Doubtful,Investasi - Rupiah - Diragukan
+TotalLoansGross_RupiahMember_InvestmentMember_Loss,Investasi - Rupiah - Macet
+TotalLoansGross_RupiahMember_SyndicatedMember,Sindikasi - Rupiah - Total
+TotalLoansGross_RupiahMember_SyndicatedMember_CurrentMember,Sindikasi - Rupiah - Lancar
+TotalLoansGross_RupiahMember_SyndicatedMember_SpecialMention,Sindikasi - Rupiah - Dalam perhatian khusus
+TotalLoansGross_RupiahMember_SyndicatedMember_Substandard,Sindikasi - Rupiah - Kurang lancar
+TotalLoansGross_RupiahMember_SyndicatedMember_Doubtful,Sindikasi - Rupiah - Diragukan
+TotalLoansGross_RupiahMember_SyndicatedMember_Loss,Sindikasi - Rupiah - Macet
+TotalLoansGross_RupiahMember_GovernmentProgramsMember,Program pemerintah - Rupiah - Total
+TotalLoansGross_RupiahMember_GovernmentProgramsMember_CurrentMember,Program pemerintah - Rupiah - Lancar
+TotalLoansGross_RupiahMember_GovernmentProgramsMember_SpecialMention,Program pemerintah - Rupiah - Dalam perhatian khusus
+TotalLoansGross_RupiahMember_GovernmentProgramsMember_Substandard,Program pemerintah - Rupiah - Kurang lancar
+TotalLoansGross_RupiahMember_GovernmentProgramsMember_Doubtful,Program pemerintah - Rupiah - Diragukan
+TotalLoansGross_RupiahMember_GovernmentProgramsMember_Loss,Program pemerintah - Rupiah - Macet
+TotalLoansGross_RupiahMember_EmployeeMember,Karyawan - Rupiah - Total
+TotalLoansGross_RupiahMember_EmployeeMember_CurrentMember,Karyawan - Rupiah - Lancar
+TotalLoansGross_RupiahMember_EmployeeMember_SpecialMention,Karyawan - Rupiah - Dalam perhatian khusus
+TotalLoansGross_RupiahMember_EmployeeMember_Substandard,Karyawan - Rupiah - Kurang lancar
+TotalLoansGross_RupiahMember_EmployeeMember_Doubtful,Karyawan - Rupiah - Diragukan
+TotalLoansGross_RupiahMember_EmployeeMember_Loss,Karyawan - Rupiah - Macet
+TotalLoansGross_RupiahMember_ExportMember,Ekspor - Rupiah - Total
+TotalLoansGross_RupiahMember_ExportMember_CurrentMember,Ekspor - Rupiah - Lancar
+TotalLoansGross_RupiahMember_ExportMember_SpecialMention,Ekspor - Rupiah - Dalam perhatian khusus
+TotalLoansGross_RupiahMember_ExportMember_Substandard,Ekspor - Rupiah - Kurang lancar
+TotalLoansGross_RupiahMember_ExportMember_Doubtful,Ekspor - Rupiah - Diragukan
+TotalLoansGross_RupiahMember_ExportMember_Loss,Ekspor - Rupiah - Macet
+TotalLoansGross_RupiahMember_OthersSubtotalLoansMember,Subjumlah pinjaman lainnya - Rupiah - Total
+TotalLoansGross_RupiahMember_OthersSubtotalLoansMember_CurrentMember,Subjumlah pinjaman lainnya - Rupiah - Lancar
+TotalLoansGross_RupiahMember_OthersSubtotalLoansMember_SpecialMention,Subjumlah pinjaman lainnya - Rupiah - Dalam perhatian khusus
+TotalLoansGross_RupiahMember_OthersSubtotalLoansMember_Substandard,Subjumlah pinjaman lainnya - Rupiah - Kurang lancar
+TotalLoansGross_RupiahMember_OthersSubtotalLoansMember_Doubtful,Subjumlah pinjaman lainnya - Rupiah - Diragukan
+TotalLoansGross_RupiahMember_OthersSubtotalLoansMember_Loss,Subjumlah pinjaman lainnya - Rupiah - Macet
+TotalLoansGross_RupiahMember_ConsumerMember,Konsumen - Rupiah - Total
+TotalLoansGross_RupiahMember_ConsumerMember_CurrentMember,Konsumen - Rupiah - Lancar
+TotalLoansGross_RupiahMember_ConsumerMember_SpecialMention,Konsumen - Rupiah - Dalam perhatian khusus
+TotalLoansGross_RupiahMember_ConsumerMember_Substandard,Konsumen - Rupiah - Kurang lancar
+TotalLoansGross_RupiahMember_ConsumerMember_Doubtful,Konsumen - Rupiah - Diragukan
+TotalLoansGross_RupiahMember_ConsumerMember_Loss,Konsumen - Rupiah - Macet
+TotalLoansGross_RupiahMember,Subtotal - Rupiah
+TotalLoansGross_RupiahMember_CurrentMember,Subtotal - Rupiah - Lancar
+TotalLoansGross_RupiahMember_SpecialMention,Subtotal - Rupiah - Dalam perhatian khusus
+TotalLoansGross_RupiahMember_Substandard,Subtotal - Rupiah - Kurang lancar
+TotalLoansGross_RupiahMember_Doubtful,Subtotal - Rupiah - Diragukan
+TotalLoansGross_RupiahMember_Loss,Subtotal - Rupiah - Macet
+TotalLoansGross_ForeignCurrenciesMember_WorkingCapitalMember,Modal kerja - Mata uang asing - Total
+TotalLoansGross_ForeignCurrenciesMember_WorkingCapitalMember_CurrentMember,Modal kerja - Mata uang asing - Lancar
+TotalLoansGross_ForeignCurrenciesMember_WorkingCapitalMember_SpecialMention,Modal kerja - Mata uang asing - Dalam perhatian khusus
+TotalLoansGross_ForeignCurrenciesMember_WorkingCapitalMember_Substandard,Modal kerja - Mata uang asing - Kurang lancar
+TotalLoansGross_ForeignCurrenciesMember_WorkingCapitalMember_Doubtful,Modal kerja - Mata uang asing - Diragukan
+TotalLoansGross_ForeignCurrenciesMember_WorkingCapitalMember_Loss,Modal kerja - Mata uang asing - Macet
+TotalLoansGross_ForeignCurrenciesMember_InvestmentMember,Investasi - Mata uang asing - Total
+TotalLoansGross_ForeignCurrenciesMember_InvestmentMember_CurrentMember,Investasi - Mata uang asing - Lancar
+TotalLoansGross_ForeignCurrenciesMember_InvestmentMember_SpecialMention,Investasi - Mata uang asing - Dalam perhatian khusus
+TotalLoansGross_ForeignCurrenciesMember_InvestmentMember_Substandard,Investasi - Mata uang asing - Kurang lancar
+TotalLoansGross_ForeignCurrenciesMember_InvestmentMember_Doubtful,Investasi - Mata uang asing - Diragukan
+TotalLoansGross_ForeignCurrenciesMember_InvestmentMember_Loss,Investasi - Mata uang asing - Macet
+TotalLoansGross_ForeignCurrenciesMember_SyndicatedMember,Sindikasi - Mata uang asing - Total
+TotalLoansGross_ForeignCurrenciesMember_SyndicatedMember_CurrentMember,Sindikasi - Mata uang asing - Lancar
+TotalLoansGross_ForeignCurrenciesMember_SyndicatedMember_SpecialMention,Sindikasi - Mata uang asing - Dalam perhatian khusus
+TotalLoansGross_ForeignCurrenciesMember_SyndicatedMember_Substandard,Sindikasi - Mata uang asing - Kurang lancar
+TotalLoansGross_ForeignCurrenciesMember_SyndicatedMember_Doubtful,Sindikasi - Mata uang asing - Diragukan
+TotalLoansGross_ForeignCurrenciesMember_SyndicatedMember_Loss,Sindikasi - Mata uang asing - Macet
+TotalLoansGross_ForeignCurrenciesMember_GovernmentProgramsMember,Program pemerintah - Mata uang asing - Total
+TotalLoansGross_ForeignCurrenciesMember_GovernmentProgramsMember_CurrentMember,Program pemerintah - Mata uang asing - Lancar
+TotalLoansGross_ForeignCurrenciesMember_GovernmentProgramsMember_SpecialMention,Program pemerintah - Mata uang asing - Dalam perhatian khusus
+TotalLoansGross_ForeignCurrenciesMember_GovernmentProgramsMember_Substandard,Program pemerintah - Mata uang asing - Kurang lancar
+TotalLoansGross_ForeignCurrenciesMember_GovernmentProgramsMember_Doubtful,Program pemerintah - Mata uang asing - Diragukan
+TotalLoansGross_ForeignCurrenciesMember_GovernmentProgramsMember_Loss,Program pemerintah - Mata uang asing - Macet
+TotalLoansGross_ForeignCurrenciesMember_EmployeeMember,Karyawan - Mata uang asing - Total
+TotalLoansGross_ForeignCurrenciesMember_EmployeeMember_CurrentMember,Karyawan - Mata uang asing - Lancar
+TotalLoansGross_ForeignCurrenciesMember_EmployeeMember_SpecialMention,Karyawan - Mata uang asing - Dalam perhatian khusus
+TotalLoansGross_ForeignCurrenciesMember_EmployeeMember_Substandard,Karyawan - Mata uang asing - Kurang lancar
+TotalLoansGross_ForeignCurrenciesMember_EmployeeMember_Doubtful,Karyawan - Mata uang asing - Diragukan
+TotalLoansGross_ForeignCurrenciesMember_EmployeeMember_Loss,Karyawan - Mata uang asing - Macet
+TotalLoansGross_ForeignCurrenciesMember_ExportMember,Ekspor - Mata uang asing - Total
+TotalLoansGross_ForeignCurrenciesMember_ExportMember_CurrentMember,Ekspor - Mata uang asing - Lancar
+TotalLoansGross_ForeignCurrenciesMember_ExportMember_SpecialMention,Ekspor - Mata uang asing - Dalam perhatian khusus
+TotalLoansGross_ForeignCurrenciesMember_ExportMember_Substandard,Ekspor - Mata uang asing - Kurang lancar
+TotalLoansGross_ForeignCurrenciesMember_ExportMember_Doubtful,Ekspor - Mata uang asing - Diragukan
+TotalLoansGross_ForeignCurrenciesMember_ExportMember_Loss,Ekspor - Mata uang asing - Macet
+TotalLoansGross_ForeignCurrenciesMember_OthersSubtotalLoansMember,Subjumlah pinjaman lainnya - Mata uang asing - Total
+TotalLoansGross_ForeignCurrenciesMember_OthersSubtotalLoansMember_CurrentMember,Subjumlah pinjaman lainnya - Mata uang asing - Lancar
+TotalLoansGross_ForeignCurrenciesMember_OthersSubtotalLoansMember_SpecialMention,Subjumlah pinjaman lainnya - Mata uang asing - Dalam perhatian khusus
+TotalLoansGross_ForeignCurrenciesMember_OthersSubtotalLoansMember_Substandard,Subjumlah pinjaman lainnya - Mata uang asing - Kurang lancar
+TotalLoansGross_ForeignCurrenciesMember_OthersSubtotalLoansMember_Doubtful,Subjumlah pinjaman lainnya - Mata uang asing - Diragukan
+TotalLoansGross_ForeignCurrenciesMember_OthersSubtotalLoansMember_Loss,Subjumlah pinjaman lainnya - Mata uang asing - Macet
+TotalLoansGross_ForeignCurrenciesMember_ConsumerMember,Konsumen - Mata uang asing - Total
+TotalLoansGross_ForeignCurrenciesMember_ConsumerMember_CurrentMember,Konsumen - Mata uang asing - Lancar
+TotalLoansGross_ForeignCurrenciesMember_ConsumerMember_SpecialMention,Konsumen - Mata uang asing - Dalam perhatian khusus
+TotalLoansGross_ForeignCurrenciesMember_ConsumerMember_Substandard,Konsumen - Mata uang asing - Kurang lancar
+TotalLoansGross_ForeignCurrenciesMember_ConsumerMember_Doubtful,Konsumen - Mata uang asing - Diragukan
+TotalLoansGross_ForeignCurrenciesMember_ConsumerMember_Loss,Konsumen - Mata uang asing - Macet
+TotalLoansGross_ForeignCurrenciesMember,Subtotal - Mata Uang Asing
+TotalLoansGross_ForeignCurrenciesMember_CurrentMember,Subtotal - Mata Uang Asing - Lancar
+TotalLoansGross_ForeignCurrenciesMember_SpecialMention,Subtotal - Mata Uang Asing - Dalam perhatian khusus
+TotalLoansGross_ForeignCurrenciesMember_Substandard,Subtotal - Mata Uang Asing - Kurang lancar
+TotalLoansGross_ForeignCurrenciesMember_Doubtful,Subtotal - Mata Uang Asing - Diragukan
+TotalLoansGross_ForeignCurrenciesMember_Loss,Subtotal - Mata Uang Asing - Macet
+TotalLoansGross,Jumlah pinjaman - Kotor - Total
+TotalLoansGross_CurrentMember,Jumlah pinjaman - Kotor - Lancar
+TotalLoansGross_SpecialMention,Jumlah pinjaman - Kotor - Dalam perhatian khusus
+TotalLoansGross_Substandard,Jumlah pinjaman - Kotor - Kurang lancar
+TotalLoansGross_Doubtful,Jumlah pinjaman - Kotor - Diragukan
+TotalLoansGross_Loss,Jumlah pinjaman - Kotor - Macet
+AllowanceForImpairmentLossesForLoans,Cadangan kerugian penurunan nilai pada pinjaman yang diberikan - Total
+AllowanceForImpairmentLossesForLoans_CurrentMember,Cadangan kerugian penurunan nilai pada pinjaman yang diberikan - Lancar
+AllowanceForImpairmentLossesForLoans_SpecialMention,Cadangan kerugian penurunan nilai pada pinjaman yang diberikan - Dalam perhatian khusus
+AllowanceForImpairmentLossesForLoans_Substandard,Cadangan kerugian penurunan nilai pada pinjaman yang diberikan -  Kurang lancar
+AllowanceForImpairmentLossesForLoans_Doubtful,Cadangan kerugian penurunan nilai pada pinjaman yang diberikan - Diragukan
+AllowanceForImpairmentLossesForLoans_Loss,Cadangan kerugian penurunan nilai pada pinjaman yang diberikan - Macet
+TotalLoansNet,Jumlah pinjaman - Bersih - Total
+TotalLoansNet_CurrentMember,Jumlah pinjaman - Bersih - Lancar
+TotalLoansNet_SpecialMention,Jumlah pinjaman - Bersih - Dalam perhatian khusus
+TotalLoansNet_Substandard,Jumlah pinjaman - Bersih - Kurang lancar
+TotalLoansNet_Doubtful,Jumlah pinjaman - Bersih - Diragukan
+TotalLoansNet_Loss,Jumlah pinjaman - Bersih - Macet

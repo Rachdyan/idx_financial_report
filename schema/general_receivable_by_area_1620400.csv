@@ -1,0 +1,6 @@
+xbrl_name,formatted_name
+TradeReceivablesGross_DomesticMember,Domestik
+TradeReceivablesGross_InternationalMember,Internasional
+TradeReceivablesGross_CurrentYearInstant,Jumlah piutang usaha berdasarkan domestik atau international
+AllowanceForImpairmentOfTradeReceivables_CurrentYearInstant,Penyisihan penurunan nilai piutang usaha
+TradeReceivablesNet_CurrentYearInstant,Piutang usaha

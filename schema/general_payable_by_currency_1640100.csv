@@ -1,0 +1,27 @@
+xbrl_name,formatted_name
+TradePayables_IDRMember_ThirdPartyMember,Pihak ketiga - IDR
+TradePayables_AUDMember_ThirdPartyMember,Pihak ketiga - AUD
+TradePayables_CADMember_ThirdPartyMember,Pihak ketiga - CAD
+TradePayables_CNYMember_ThirdPartyMember,Pihak ketiga - CNY
+TradePayables_EURMember_ThirdPartyMember,Pihak ketiga - EUR
+TradePayables_HKDMember_ThirdPartyMember,Pihak ketiga - HKD
+TradePayables_GBPMember_ThirdPartyMember,Pihak ketiga - GBP
+TradePayables_JPYMember_ThirdPartyMember,Pihak ketiga - JPY
+TradePayables_SGDMember_ThirdPartyMember,Pihak ketiga - SGD
+TradePayables_THBMember_ThirdPartyMember,Pihak ketiga - THB
+TradePayables_USDMember_ThirdPartyMember,Pihak ketiga - USD
+TradePayables_OtherCurrencyMember_ThirdPartyMember,Pihak ketiga - Mata Uang Lainnya
+TradePayables_ThirdPartyMember,Pihak ketiga
+TradePayables_IDRMember_RelatedPartyMember,Pihak berelasi - IDR
+TradePayables_AUDMember_RelatedPartyMember,Pihak berelasi - AUD
+TradePayables_CADMember_RelatedPartyMember,Pihak berelasi - CAD
+TradePayables_CNYMember_RelatedPartyMember,Pihak berelasi - CNY
+TradePayables_EURMember_RelatedPartyMember,Pihak berelasi - EUR
+TradePayables_HKDMember_RelatedPartyMember,Pihak berelasi - HKD
+TradePayables_GBPMember_RelatedPartyMember,Pihak berelasi - GBP
+TradePayables_JPYMember_RelatedPartyMember,Pihak berelasi - JPY
+TradePayables_SGDMember_RelatedPartyMember,Pihak berelasi - SGD
+TradePayables_THBMember_RelatedPartyMember,Pihak berelasi - THB
+TradePayables_USDMember_RelatedPartyMember,Pihak berelasi - USD
+TradePayables_OtherCurrencyMember_RelatedPartyMember,Pihak berelasi - Mata Uang Lainnya
+TradePayables_RelatedPartyMember,Pihak berelasi

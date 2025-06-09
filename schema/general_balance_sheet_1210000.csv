@@ -1,0 +1,232 @@
+﻿xbrl_name,formatted_name
+CashAndCashEquivalents,Kas dan setara kas
+NotesReceivable,Wesel tagih
+ShortTermInvestments,Investasi jangka pendek
+CurrentRestrictedFunds,Dana yang dibatasi penggunaannya lancar
+CurrentFinancialAssetsAtFairValueThroughProfitOrLoss,Aset keuangan lancar yang diukur pada nilai wajar melalui laba rugi
+CurrentFinancialAssetsFairValueThroughOtherComprehensiveIncome,Aset keuangan lancar nilai wajar melalui pendapatan komprehensif lainnya
+CurrentFinancialAssetsAmortizedCostInvestments,Aset keuangan biaya perolehan diamortisasi lancar
+OtherCurrentFinancialAssets,Aset keuangan lancar lainnya
+CurrentDerivativeFinancialAssets,Aset keuangan derivatif lancar
+TradeReceivablesThirdParties,Piutang usaha pihak ketiga
+TradeReceivablesRelatedParties,Piutang usaha pihak berelasi
+CurrentFinanceLeaseReceivables,Piutang sewa pembiayaan lancar
+RetentionReceivablesThirdParties,Piutang retensi pihak ketiga
+RetentionReceivablesRelatedParties,Piutang retensi pihak berelasi
+UnbilledReceivablesThirdParties,Tagihan bruto pemberi kerja pihak ketiga
+UnbilledReceivablesRelatedParties,Tagihan bruto pemberi kerja pihak berelasi
+ReceivablesOnSubsidy,Piutang subsidi
+CurrentCustomerReceivablesThirdParties,Piutang nasabah lancar pihak ketiga
+CurrentCustomerReceivablesRelatedParties,Piutang nasabah lancar pihak berelasi
+MarginReceivables,Piutang margin
+ReceivablesFromClearingAndSettlementGuaranteeInstitution,Piutang dari lembaga kliring dan penjaminan
+PremiumAndReinsuranceReceivables,Piutang premi dan reasuransi
+DividendsAndInterestReceivables,Piutang dividen dan bunga
+OtherReceivablesThirdParties,Piutang lainnya pihak ketiga
+OtherReceivablesRelatedParties,Piutang lainnya pihak berelasi
+CurrentLivestockInventories,Persediaan hewan ternak lancar
+CurrentRealEstateAssets,Aset real estat lancar
+CurrentInventories,Persediaan lancar
+CurrentBiologicalAssets,Aset biologis lancar
+CurrentPrepaidExpenses,Biaya dibayar dimuka lancar
+CurrentGuarantees,Jaminan lancar
+CurrentAdvancesOnInvestments,Uang muka lancar atas investasi
+CurrentAdvancesOnPurchaseOfPropertyPlantAndEquipment,Uang muka lancar atas pembelian aset tetap
+OtherCurrentAdvances,Uang muka lancar lainnya
+CurrentPrepaidTaxes,Pajak dibayar dimuka lancar
+CurrentClaimsForTaxRefund,Klaim atas pengembalian pajak lancar
+CurrentDeferredStrippingCosts,Biaya pengupasan tanah yang ditangguhkan lancar
+CurrentDeferredMobilisationCosts,Biaya mobilisasi yang ditangguhkan lancar
+CurrentTaxAmnestyAssets,Aset pengampunan pajak lancar
+OtherCurrentNonFinancialAssets,Aset non-keuangan lancar lainnya
+NonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,Aset tidak lancar atau kelompok lepasan diklasifikasikan sebagai dimiliki untuk dijual
+NonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForDistributionToOwners,Aset tidak lancar atau kelompok lepasan diklasifikasikan sebagai dimiliki untuk didistribusikan kepada pemilik
+CurrentAssets,Jumlah aset lancar
+NonCurrentFinanceLeaseReceivables,Piutang sewa pembiayaan tidak lancar
+NonCurrentRestrictedFunds,Dana yang dibatasi penggunaannya tidak lancar
+AircraftMaintenanceReserveFunds,Dana cadangan perawatan pesawat
+ReceivablesFromRelatedParties,Piutang dari pihak berelasi
+ReceivablesFromStockholders,Piutang dari pemegang saham
+NonCurrentCustomerReceivablesThirdParties,Piutang nasabah tidak lancar pihak ketiga
+NonCurrentCustomerReceivablesRelatedParties,Piutang nasabah tidak lancar pihak berelasi
+OtherNonCurrentReceivablesThirdParties,Piutang tidak lancar lainnya pihak ketiga
+OtherNonCurrentReceivablesRelatedParties,Piutang tidak lancar lainnya pihak berelasi
+InvestmentsAccountedForUsingEquityMethod,Investasi yang dicatat dengan menggunakan metode ekuitas
+InvestmentsInJointVentures,Investasi pada entitas ventura bersama
+InvestmentsInAssociates,Investasi pada entitas asosiasi
+NonCurrentGuarantees,Jaminan tidak lancar
+NonCurrentAdvancesOnInvestments,Uang muka tidak lancar atas investasi
+NonCurrentAdvancesOnPurchaseOfPropertyPlantAndEquipment,Uang muka tidak lancar atas pembelian aset tetap
+OtherNonCurrentAdvances,Uang muka tidak lancar lainnya
+NonCurrentFinancialAssetsAtFairValueThroughProfitOrLoss,Aset keuangan tidak lancar yang diukur pada nilai wajar melalui laba rugi
+NonCurrentFinancialAssetsFairValueThroughOtherComprehensiveIncome,Aset keuangan tidak lancar nilai wajar melalui pendapatan komprehensif lainnya
+NonCurrentFinancialAssetsAmortizedCost,Aset keuangan tidak lancar biaya perolehan diamortisasi
+OtherNonCurrentFinancialAssets,Aset keuangan tidak lancar lainnya
+NonCurrentDerivativeFinancialAssets,Aset keuangan derivatif tidak lancar
+NonCurrentPrepaidExpenses,Biaya dibayar dimuka tidak lancar
+NonCurrentPrepaidTaxes,Pajak dibayar dimuka tidak lancar
+DeferredTaxAssets,Aset pajak tangguhan
+NonCurrentLivestockInventories,Persediaan hewan ternak tidak lancar
+NonCurrentRealEstateAssets,Aset real estat tidak lancar
+NonCurrentInventories,Persediaan tidak lancar lainnya
+LivestockProduction,Hewan ternak produksi
+IndustrialTimberPlantationsMature,Hutan tanaman industri menghasilkan
+IndustrialTimberPlantationsImmature,Hutan tanaman industri belum menghasilkan
+PlantationAssetsMature,Tanaman perkebunan menghasilkan
+PlantationAssetsImmature,Tanaman perkebunan belum menghasilkan
+Non-CurrentBiologicalAssets,Aset biologis tidak lancar
+PlasmaPlantations,Perkebunan plasma
+ReinsuranceAssets,Aset reasuransi
+InvestmentProperties,Properti investasi
+UndevelopedLand,Tanah Belum Dikembangkan
+PropertyPlantAndEquipment,Aset tetap
+RightOfUseAssets,Aset hak guna
+IjarahAssets,Aset ijarah
+ForeclosedAssets,Agunan yang diambil alih
+OilAndGasAssets,Aset minyak dan gas bumi
+ExplorationAndEvaluationAssets,Aset eksplorasi dan evaluasi
+TollRoadConcessionRights,Hak konsesi jalan tol
+MiningProperties,Properti pertambangan
+NonCurrentDeferredStrippingCosts,Biaya pengupasan tanah yang ditangguhkan tidak lancar
+NonCurrentDeferredMobilisationCosts,Biaya mobilisasi yang ditangguhkan tidak lancar
+DeferredChargesOnLandrights,Beban tangguhan hak atas tanah dan bangunan
+DeferredChargesOnExplorationAndDevelopmentExpenditures,Beban tangguhan atas biaya eksplorasi dan pengembangan
+DeferredChargesOnCostOnForest,Beban tangguhan atas biaya pengelolaan hak pengusahaan hutan
+DeferredChargesOnEnvironmentalAndReclamationExpenditures,Beban tangguhan atas biaya pengelolaan dan reklamasi lingkungan hidup
+OtherDeferredCharges,Beban tangguhan lainnya
+NonCurrentClaimsForTaxRefund,Klaim atas pengembalian pajak tidak lancar
+PostEmploymentBenefitAssets,Aset imbalan pasca kerja
+Goodwill,Goodwill
+IntangibleAssetsOtherThanGoodwill,Aset takberwujud selain goodwill
+NonCurrentTaxAmnestyAssets,Aset pengampunan pajak tidak lancar
+OtherNonCurrentNonFinancialAssets,Aset tidak lancar non-keuangan lainnya
+NonCurrentAssets,Jumlah aset tidak lancar
+Assets,Jumlah aset
+ShortTermBankLoans,Utang bank jangka pendek
+TrustReceiptsPayables,Utang trust receipts
+TradePayablesThirdParties,Utang usaha pihak ketiga
+TradePayablesRelatedParties,Utang usaha pihak berelasi
+OtherPayablesThirdParties,Utang lainnya pihak ketiga
+OtherPayablesRelatedParties,Utang lainnya pihak berelasi
+CurrentAdvancesFromCustomersThirdParties,Uang muka pelanggan jangka pendek pihak ketiga
+CurrentAdvancesFromCustomersRelatedParties,Uang muka pelanggan jangka pendek pihak berelasi
+DividendsPayable,Utang dividen
+OtherCurrentFinancialLiabilities,Liabilitas keuangan jangka pendek lainnya
+CurrentAccruedExpenses,Beban akrual jangka pendek
+ShortTermPostEmploymentBenefitObligations,Liabilitas imbalan pasca kerja jangka pendek
+TaxesPayable,Utang pajak
+ExcisePayable,Utang cukai
+ProjectPayables,Utang proyek
+PayablesToClearingAndSettlementGuaranteeInstitution,Utang kepada lembaga kliring dan penjaminan
+PayablesToCustomersThirdParties,Utang nasabah pihak ketiga
+PayablesToCustomersRelatedParties,Utang nasabah pihak berelasi
+CoinsuranceLiabilities,Utang koasuransi
+ReinsurancePayables,Utang reasuransi
+FactoringPayables,Liabilitas anjak piutang
+CurrentDeposits,Uang jaminan jangka pendek
+CurrentUnearnedRevenue,Pendapatan diterima dimuka jangka pendek
+DueToCustomersThirdParties,Liabilitas bruto kepada pemberi kerja pihak ketiga
+DueToCustomersRelatedParties,Liabilitas bruto kepada pemberi kerja pihak berelasi
+CurrentDeferredRevenue,Pendapatan ditangguhkan jangka pendek
+CurrentProvisionsForOverlay,Provisi jangka pendek pelapisan jalan tol
+CurrentProvisionsForAircraftReturnAndMaintenanceFunds,Provisi jangka pendek biaya pengembalian dan pemeliharaan pesawat
+CurrentProvisionsForInfrastructureDevelopmentPublicAndSocialFacilities,"Provisi jangka pendek pembangunan prasarana, fasilitas umum, dan sosial"
+CurrentProvisionsForAssetDismantlingCosts,Provisi jangka pendek biaya pembongkaran aset tetap
+CurrentProvisionsForRestorationAndRehabilitation,Provisi jangka pendek restorasi dan rehabilitasi
+OtherCurrentProvisions,Provisi jangka pendek lainnya
+ShareBasedPaymentLiabilities,Liabilitas pembayaran berbasis saham
+CurrentContractLiabilities,Kontrak liabilitas jangka pendek
+LiabilitiesDirectlyAssociatedWithNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,Liabilitas yang secara langsung berhubungan dengan aset tidak lancar atau kelompok lepasan yang diklasifikasikan sebagai dimiliki untuk dijual atau dimiliki untuk didistribusikan kepada pemilik
+CurrentMaturitiesOfBankLoans,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas utang bank
+CurrentMaturitiesOfNon-BankFinancialInstitutionsLoan,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas utang keuangan keuangan non bank
+CurrentMaturitiesOfSecuredLoans,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas pinjaman beragunan
+CurrentMaturitiesOfUnsecuredLoans,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas pinjaman tanpa agunan
+CurrentMaturitiesOfStepLoans,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas penerusan pinjaman
+CurrentMaturitiesOfLoansFromGovernmentOfTheRepublicOfIndonesia,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas pinjaman dari pemerintah republik Indonesia
+CurrentMaturitiesOfSubordinatedLoans,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas pinjaman subordinasi
+CurrentMaturitiesOfJointOperationsLiabilities,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas liabilitas kerja sama operasi
+CurrentMaturitiesOfLandAcquisitionLiabilities,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas liabilitas pembebasan tanah
+CurrentMaturitiesOfConsumerFinancingPayables,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas utang pembiayaan konsumen
+CurrentMaturitiesOfFinanceLeaseLiabilities,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas liabilitas sewa pembiayaan
+CurrentMaturitiesOfElectricityPurchasePayables,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas utang listrik swasta
+CurrentMaturitiesOfRetentionPayables,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas utang retensi
+CurrentMaturitiesOfNotesPayable,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas wesel bayar
+CurrentMaturitiesOfMediumTermNotes,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas surat utang jangka menengah
+CurrentMaturitiesOfBondsPayable,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas utang obligasi
+CurrentMaturitiesOfSukuk,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas sukuk
+CurrentMaturitiesOfSubordinatedBonds,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas obligasi subordinasi
+CurrentMaturitiesOfOtherBorrowings,Liabilitas jangka panjang yang jatuh tempo dalam satu tahun atas pinjaman lainnya
+CurrentDueToRelatedParties,Utang pihak berelasi jangka pendek
+CurrentDueToStockholders,Utang pemegang saham jangka pendek
+ShortTermDerivativeFinancialLiabilities,Liabilitas keuangan derivatif jangka pendek
+CurrentTaxAmnestyLiabilities,Liabilitas pengampunan pajak lancar
+OtherCurrentNonFinancialLiabilities,Liabilitas non-keuangan jangka pendek lainnya
+CurrentLiabilities,Jumlah liabilitas jangka pendek
+LongTermDerivativeFinancialLiabilities,Liabilitas keuangan derivatif jangka panjang
+DeferredTaxLiabilities,Liabilitas pajak tangguhan
+NonCurrentDueToRelatedParties,Utang pihak berelasi jangka panjang
+NonCurrentDueToStockholders,Utang pemegang saham jangka panjang
+Non-CurrentContractLiabilities,Kontrak liabilitas jangka panjang
+LongTermBankLoans,Liabilitas jangka panjang atas utang bank
+LongTermNon-BankFinancialInstitutionsLoan,Utang lembaga keuangan non-bank
+LongTermStepLoans,Liabilitas jangka panjang atas penerusan pinjaman
+LongTermSecuredLoans,Liabilitas jangka panjang atas pinjaman beragunan
+LongTermUnsecuredLoans,Liabilitas jangka panjang atas pinjaman tanpa agunan
+LongTermLoansFromGovernmentOfTheRepublicOfIndonesia,Liabilitas jangka panjang atas pinjaman dari pemerintah republik Indonesia
+LongTermSubordinatedLoans,Liabilitas jangka panjang atas pinjaman subordinasi
+LongTermJointOperationsLiabilities,Liabilitas jangka panjang atas liabilitas kerja sama operasi
+LongTermLandAcquisitionLiabilities,Liabilitas jangka panjang atas liabilitas pembebasan tanah
+LongTermConsumerFinancingPayables,Liabilitas jangka panjang atas utang pembiayaan konsumen
+LongTermFinanceLeaseLiabilities,Liabilitas jangka panjang atas liabilitas sewa pembiayaan
+LongTermElectricityPurchasePayables,Liabilitas jangka panjang atas utang listrik swasta
+LongTermRetentionPayables,Liabilitas jangka panjang atas utang retensi
+LongTermNotesPayable,Liabilitas jangka panjang atas wesel bayar
+LongTermMediumTermNotes,Liabilitas jangka panjang atas surat utang jangka menengah
+LongTermBondsPayable,Liabilitas jangka panjang atas utang obligasi
+LongTermSukuk,Liabilitas jangka panjang atas sukuk
+LongTermSubordinatedBonds,Liabilitas jangka panjang atas obligasi subordinasi
+LongTermOtherBorrowings,Liabilitas jangka panjang atas pinjaman lainnya
+ConvertibleBonds,Obligasi konversi
+NonCurrentUnearnedRevenue,Pendapatan diterima dimuka jangka panjang
+NonCurrentDeposits,Uang jaminan jangka panjang
+NonCurrentAdvancesFromCustomersThirdParties,Uang muka pelanggan jangka panjang pihak ketiga
+NonCurrentAdvancesFromCustomersRelatedParties,Uang muka pelanggan jangka panjang pihak berelasi
+NonCurrentDeferredRevenue,Pendapatan ditangguhkan jangka panjang
+InsuranceContractLiabilities,Liabilitas kontrak asuransi
+NonCurrentProvisionsForOverlay,Provisi pelapisan jalan tol jangka panjang
+NonCurrentProvisionsForAircraftReturnAndMaintenanceFunds,Provisi biaya pengembalian dan pemeliharaan pesawat jangka panjang
+NonCurrentProvisionsForInfrastructureDevelopmentPublicAndSocialFacilities,"Provisi pembangunan prasarana, fasilitas umum, dan sosial jangka panjang"
+NonCurrentProvisionsForAssetDismantlingCosts,Provisi biaya pembongkaran aset tetap jangka panjang
+NonCurrentProvisionsForRestorationAndRehabilitation,Provisi restorasi dan rehabilitasi jangka panjang
+OtherNonCurrentProvisions,Provisi jangka panjang lainnya
+AccruedStrippingCosts,Biaya pengupasan tanah yang masih harus dibayar
+LiabilitiesToPolicyholders,Liabilitas kepada pemegang polis
+LongTermPostEmploymentBenefitObligations,Kewajiban imbalan pasca kerja jangka panjang
+NonCurrentTaxAmnestyLiabilities,Liabilitas pengampunan pajak tidak lancar
+OtherNonCurrentFinancialLiabilities,Liabilitas keuangan jangka panjang lainnya
+OtherNonCurrentNonFinancialLiabilities,Liabilitas non-keuangan jangka panjang
+NonCurrentLiabilities,Jumlah liabilitas jangka panjang
+Liabilities,Jumlah liabilitas
+CommonStocks,Saham biasa
+PreferredStocks,Saham preferen
+AdditionalPaidInCapital,Tambahan modal disetor
+TreasuryStocks,Saham treasuri
+AdvancesInCapitalStock,Uang muka setoran modal
+StockOptions,Opsi saham
+RevaluationReserves,Cadangan revaluasi
+ReserveOfExchangeDifferencesOnTranslation,Cadangan selisih kurs penjabaran
+ReserveForChangesInFairValueOfFairValueThroughOtherComprehensiveIncomeFinancialAssets,Cadangan perubahan nilai wajar aset keuangan nilai wajar melalui pendapatan komprehensif lainnya
+ReserveOfGainsLossesFromInvestmentsInEquityInstruments,Cadangan keuntungan (kerugian) investasi pada instrumen ekuitas
+ReserveOfShareBasedPayments,Cadangan pembayaran berbasis saham
+ReserveOfCashFlowHedges,Cadangan lindung nilai arus kas
+ReserveOfRemeasurementsOfDefinedBenefitPlans,Cadangan pengukuran kembali program imbalan pasti
+OtherReserves,Cadangan lainnya
+DifferenceDueToChangesOfEquityInSubsidiaryAssociates,Selisih Transaksi Perubahan Ekuitas Entitas Anak/Asosiasi
+OtherComponentsOfEquity,Komponen ekuitas lainnya
+AppropriatedRetainedEarnings,Saldo laba yang telah ditentukan penggunaannya
+UnappropriatedRetainedEarnings,Saldo laba yang belum ditentukan penggunaannya
+EquityAttributableToEquityOwnersOfParentEntity,Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk
+ProformaEquity,Proforma ekuitas
+NonControllingInterests,Kepentingan non-pengendali
+Equity,Jumlah ekuitas
+LiabilitiesAndEquity,Jumlah liabilitas dan ekuitas

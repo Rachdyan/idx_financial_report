@@ -1,0 +1,56 @@
+﻿xbrl_name,formatted_name
+Cow,Sapi
+Chicken,Ayam
+Fish,Ikan
+Shrimp,Udang
+OtherLiveStocksInventories,Persediaan hewan ternak lainnya
+LiveStocksInventoriesGross,Persediaan hewan ternak kotor
+AllowanceforImpairmentofLiveStockInventories,Cadangan penurunan nilai hewan ternak
+LivestockInventories,Persediaan hewan ternak
+CurrentLiveStockInventories,Persediaan hewan ternak lancar
+Non-currentLiveStockInventories,Persediaan hewan ternak tidak lancar
+Land,Tanah
+LandUnderDevelopmentInventory,Persediaan Tanah Dalam Pengembangan
+UndevelopedLandInventory,Persediaan Tanah Belum Dikembangkan
+BuildingUnderConstruction,Bangunan dalam konstruksi
+BuildingAvailableforSale,Bangunan siap jual
+OtherRealEstateAssets,Aset real estat lainnya
+RealEstateAssetsgross,Aset real estat kotor
+AllowanceforImpairmentofRealEstateAssets,Cadangan penurunan nilai aset real estat
+RealEstateAssets,Aset real estat
+CurrentRealEstateAssets,Aset real estat lancar
+NonCurrentRealEstateAssets,Aset real estat tidak lancar
+FinishedGoods,Barang jadi
+WorkInProcess,Barang dalam proses
+RawAndIndirectMaterial,Bahan baku dan bahan pembantu
+Spareparts,Suku cadang
+Supplies,Perlengkapan
+MerchandiseInventory,Barang dagang
+Coal,Batubara
+InventoriesInTransit,Barang dalam perjalanan
+Gold,Emas
+Silver,Perak
+Nickel,Nikel
+Tin,Timah
+Feronickel,Feronikel
+Bauxite,Bauksit
+CommunicationandTransmissionInfrastructure,Perangkat transmisi dan komunikasi
+OpticalNetworkTerminalAccessPointSetTopBoxInfrastructure,"Perangkat optical network terminal, access point, set top box"
+SupportingFacilitiesTower,Sarana penunjang menara
+FreshFruitBunch,Tandan buah segar
+PalmKernel,Inti sawit
+CrudePalmOilandPalmKernelOil,Minyak sawit dan minyak inti sawit
+OtherPalmProducts,Produk olahan sawit lainnya
+ExciseDutyRibbon,Pita cukai
+Rubber,Karet
+Sago,Sagu
+OtherAgricultureProducts,Produk agrikultur lainnya
+OtherInventories,Lainnya
+InventoriesGross,"Persediaan, kotor"
+AllowanceForImpairmentOfInventories,Saldo akhir Penyisihan Penurunan Nilai Persediaan
+Inventories,Persediaan
+CurrentInventories,Persediaan lancar
+NonCurrentInventories,Persediaan tidak lancar lainnya
+IncreaseDecreaseforAllowanceForImpairmentOfInventory,Kenaikan/(penurunan) cadangan penurunan nilai persediaan
+IncreaseDecreaseofAllowanceforImpairmentofLiveStockInventory,Kenaikan (penurunan) penyisihan penurunan nilai persediaan hewan ternak
+IncreaseDecreaseofAllowanceforImpairmentofRealEstateAssets,Kenaikan (penurunan) penyisihan penurunan nilai aset real estat

@@ -1,0 +1,48 @@
+xbrl_name,formatted_name
+PartyName_RelatedParty1Member,Pihak berelasi 1 - Nama
+SalesAndRevenue_RelatedParty1Member,Pihak berelasi 1 - Jumlah
+PartyName_RelatedParty2Member,Pihak berelasi 2 - Nama
+SalesAndRevenue_RelatedParty2Member,Pihak berelasi 2 - Jumlah
+PartyName_RelatedParty3Member,Pihak berelasi 3 - Nama
+SalesAndRevenue_RelatedParty3Member,Pihak berelasi 3 - Jumlah
+PartyName_RelatedParty4Member,Pihak berelasi 4 - Nama
+SalesAndRevenue_RelatedParty4Member,Pihak berelasi 4 - Jumlah
+PartyName_RelatedParty5Member,Pihak berelasi 5 - Nama
+SalesAndRevenue_RelatedParty5Member,Pihak berelasi 5 - Jumlah
+PartyName_RelatedParty6Member,Pihak berelasi 6 - Nama
+SalesAndRevenue_RelatedParty6Member,Pihak berelasi 6 - Jumlah
+PartyName_RelatedParty7Member,Pihak berelasi 7 - Nama
+SalesAndRevenue_RelatedParty7Member,Pihak berelasi 7 - Jumlah
+PartyName_RelatedParty8Member,Pihak berelasi 8 - Nama
+SalesAndRevenue_RelatedParty8Member,Pihak berelasi 8 - Jumlah
+PartyName_RelatedParty9Member,Pihak berelasi 9 - Nama
+SalesAndRevenue_RelatedParty9Member,Pihak berelasi 9 - Jumlah
+PartyName_RelatedParty10Member,Pihak berelasi 10 - Nama
+SalesAndRevenue_RelatedParty10Member,Pihak berelasi 10 - Jumlah
+PartyName_OtherRelatedPartiesMember,Pihak berelasi lainnya - Nama
+SalesAndRevenue_OtherRelatedPartiesMember,Pihak berelasi lainnya - Jumlah
+SalesAndRevenue_RelatedPartiesMember,Pihak berelasi
+PartyName_ThirdParty1Member,Pihak ketiga 1 - Nama
+SalesAndRevenue_ThirdParty1Member,Pihak ketiga 1 - Jumlah
+PartyName_ThirdParty2Member,Pihak ketiga 2 - Nama
+SalesAndRevenue_ThirdParty2Member,Pihak ketiga 2 - Jumlah
+PartyName_ThirdParty3Member,Pihak ketiga 3 - Nama
+SalesAndRevenue_ThirdParty3Member,Pihak ketiga 3 - Jumlah
+PartyName_ThirdParty4Member,Pihak ketiga 4 - Nama
+SalesAndRevenue_ThirdParty4Member,Pihak ketiga 4 - Jumlah
+PartyName_ThirdParty5Member,Pihak ketiga 5 - Nama
+SalesAndRevenue_ThirdParty5Member,Pihak ketiga 5 - Jumlah
+PartyName_ThirdParty6Member,Pihak ketiga 6 - Nama
+SalesAndRevenue_ThirdParty6Member,Pihak ketiga 6 - Jumlah
+PartyName_ThirdParty7Member,Pihak ketiga 7 - Nama
+SalesAndRevenue_ThirdParty7Member,Pihak ketiga 7 - Jumlah
+PartyName_ThirdParty8Member,Pihak ketiga 8 - Nama
+SalesAndRevenue_ThirdParty8Member,Pihak ketiga 8 - Jumlah
+PartyName_ThirdParty9Member,Pihak ketiga 9 - Nama
+SalesAndRevenue_ThirdParty9Member,Pihak ketiga 9 - Jumlah
+PartyName_ThirdParty10Member,Pihak ketiga 10 - Nama
+SalesAndRevenue_ThirdParty10Member,Pihak ketiga 10 - Jumlah
+PartyName_OtherThirdPartiesMember,Pihak ketiga lainnya - Nama
+SalesAndRevenue_OtherThirdPartiesMember,Pihak ketiga lainnya - Jumlah
+SalesAndRevenue_ThirdPartiesMember,Pihak ketiga
+SalesAndRevenue_CurrentYearDuration,Tipe pihak

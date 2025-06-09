@@ -1,0 +1,117 @@
+﻿xbrl_name,formatted_name
+InterestIncome,Pendapatan bunga
+InterestExpenses,Beban bunga
+RevenueFromFundManagementAsMudharib,Pendapatan pengelolaan dana oleh bank sebagai mudharib
+ThirdPartiesShareOnReturnOfTemporarySyirkahFunds,Hak pihak ketiga atas bagi hasil dana syirkah temporer
+RevenueFromInsurancePremiums,Pendapatan dari premi asuransi
+ReinsurancePremiums,Premi reasuransi
+RetrocessionPremiums,Premi retrosesi
+DecreaseIncreaseInUnearnedPremiums,Penurunan (kenaikan) premi yang belum merupakan pendapatan
+DecreaseIncreaseInPremiumIncomeCededToReinsurancer,Penurunan (kenaikan) pendapatan premi disesikan kepada reasuradur
+InsuranceCommissionIncome,Pendapatan komisi asuransi
+NetInvestmentIncome,Pendapatan bersih investasi
+UjrahReceived,Penerimaan ujrah
+OtherInsuranceIncome,Pendapatan asuransi lainnya
+ClaimExpenses,Beban klaim
+ReinsuranceClaims,Klaim reasuransi
+RetrocessionClaims,Klaim retrosesi
+IncreaseDecreaseInEstimatedClaimsLiability,Kenaikan (penurunan) estimasi liabilitas klaim
+IncreaseDecreaseInLiabilityForFuturePolicyBenefit,Kenaikan (penurunan) liabilitas manfaat polis masa depan
+IncreaseDecreaseInProvisionForLossesArisingFromLiabilityAdequacyTest,Kenaikan (penurunan) provisi yang timbul dari tes kecukupan liabilitas
+IncreaseDecreaseInInsuranceLiabilitiesCededToReinsurers,Kenaikan (penurunan) liabilitas asuransi yang disesikan kepada reasuradur
+IncreaseDecreaseInLiabilitiesToPolicyholderInUnitLinkedContracts,Kenaikan (penurunan) liabilitas pemegang polis pada kontrak unit-linked
+InsuranceCommissionExpenses,Beban komisi asuransi
+UjrahPaid,Ujrah dibayar
+AcquisitionCostsOfInsuranceContracts,Beban akuisisi dari kontrak asuransi
+OtherInsuranceExpenses,Beban asuransi lainnya
+RevenueFromConsumerFinancing,Pendapatan dari pembiayaan konsumen
+RevenueFromFinanceLease,Pendapatan dari sewa pembiayaan
+RevenueFromOperatingLease,Pendapatan dari sewa operasi
+RevenueFromFactoring,Pendapatan dari anjak piutang
+RevenueFromUnderwritingActivitiesAndSellingFees,Pendapatan kegiatan penjamin emisi dan penjualan efek
+RevenueFromFinancingTransactions,Pendapatan pembiayaan transaksi nasabah
+RevenueFromSecuritiesAdministrationService,Pendapatan jasa biro administrasi efek
+RevenueFromInvestmentManagementServices,Pendapatan kegiatan jasa manajer investasi
+RevenueFromFinancialAdvisoryServices,Pendapatan kegiatan jasa penasehat keuangan
+RealisedGainsLossesOnTradingOfMarketableSecurities,Keuntungan (kerugian) dari transaksi perdagangan efek yang telah direalisasi
+GainsLossesOnChangesInFairValueOfMarketableSecurities,Keuntungan (kerugian) perubahan nilai wajar efek
+InvestmentsIncome,Pendapatan investasi
+ProvisionsAndCommissionsIncomeFromTransactionsOtherThanLoan,Pendapatan provisi dan komisi dari transaksi lainnya selain kredit
+RevenueFromTradingTransactions,Pendapatan transaksi perdagangan
+DividendsIncome,Pendapatan dividen
+RealisedGainsLossesFromDerivativeInstruments,Keuntungan (kerugian) yang telah direalisasi atas instrumen derivatif
+RevenueFromRecoveryOfWrittenOffAssets,Penerimaan kembali aset yang telah dihapusbukukan
+GainsLossesOnChangesInForeignExchangeRates,Keuntungan (kerugian) selisih kurs mata uang asing
+GainsLossesOnDisposalOfPropertyAndEquipment,Keuntungan (kerugian) pelepasan aset tetap
+GainsLossesOnDisposalOfForeclosedAssets,Keuntungan (kerugian) pelepasan agunan yang diambil alih
+OtherOperatingIncome,Pendapatan operasional lainnya
+RecoveryOfImpairmentLossesOfFinancialAssets,Pemulihan penyisihan kerugian penurunan nilai aset keuangan
+RecoveryOfImpairmentLossesOfFinancialAssetsFinanceLease,Pemulihan penyisihan kerugian penurunan nilai aset keuangan - sewa pembiayaan
+RecoveryOfImpairmentLossesOfFinancialAssetsConsumerFinancingReceivables,Pemulihan penyisihan kerugian penurunan nilai aset keuangan - piutang pembiayaan konsumen
+RecoveryOfImpairmentLossesOfNonfinancialAssets,Pemulihan penyisihan kerugian penurunan nilai aset non-keuangan
+RecoveryOfImpairmentLossesOfNonfinancialAssetsRepossessedCollaterals,Pemulihan penyisihan kerugian penurunan nilai aset non-keuangan - agunan yang diambil alih
+RecoveryOfEstimatedLossesOfCommitmentsAndContingency,Pemulihan penyisihan estimasi kerugian atas komitmen dan kontinjensi
+AllowancesForImpairmentLossesOnEarningsAssets,Pembentukan penyisihan kerugian penurunan nilai aset produktif
+AllowancesForImpairmentLossesOnNonEarningsAssets,Pembentukan penyisihan kerugian penurunan nilai aset non-produktif
+ReversalExpenseOfEstimatedLossesOnCommitmentsAndContingencies,Pembalikan (beban) estimasi kerugian komitmen dan kontijensi
+GeneralAndAdministrativeExpenses,Beban umum dan administrasi
+SellingExpenses,Beban penjualan
+RentMaintenanceAndImprovementExpenses,"Beban sewa, pemeliharaan, dan perbaikan"
+OtherFeesAndCommissionsExpenses,Beban provisi dan komisi
+OtherOperatingExpenses,Beban operasional lainnya
+ProfitFromOperation,Jumlah laba operasional
+NonOperatingIncome,Pendapatan bukan operasional
+NonOperatingExpenses,Beban bukan operasional
+ShareOfProfitLossOfAssociatesAccountedForUsingEquityMethod,Bagian atas laba (rugi) entitas asosiasi yang dicatat dengan menggunakan metode ekuitas
+ShareOfProfitLossOfJointVenturesAccountedForUsingEquityMethod,Bagian atas laba (rugi) entitas ventura bersama yang dicatat menggunakan metode ekuitas
+ProfitLossBeforeIncomeTax,Jumlah laba (rugi) sebelum pajak penghasilan
+TaxBenefitExpenses,Pendapatan (beban) pajak
+ProfitLossFromContinuingOperations,Jumlah laba (rugi) dari operasi yang dilanjutkan
+ProfitLossFromDiscontinuedOperations,Laba (rugi) dari operasi yang dihentikan
+ProfitLoss,Jumlah laba (rugi)
+OtherComprehensiveIncomeForGainsLossesOnRevaluationOfPropertyAndEquipmentBeforeTax,"Pendapatan komprehensif lainnya atas keuntungan (kerugian) hasil revaluasi aset tetap, sebelum pajak"
+OtherComprehensiveIncomeForRemeasurementOfDefinedBenefitObligationBeforeTax,"Pendapatan komprehensif lainnya atas pengukuran kembali kewajiban manfaat pasti, sebelum pajak"
+OtherAdjustmentsToOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossBeforeTax,"Penyesuaian lainnya atas pendapatan komprehensif lainnya yang tidak akan direklasifikasi ke laba rugi, sebelum pajak"
+OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossBeforeTax,"Jumlah pendapatan komprehensif lainnya yang tidak akan direklasifikasi ke laba rugi, sebelum pajak"
+GainsLossesOnExchangeDifferencesOnTranslationBeforeTax,"Keuntungan (kerugian) selisih kurs penjabaran, sebelum pajak"
+ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationBeforeTax,"Penyesuaian reklasifikasi selisih kurs penjabaran, sebelum pajak"
+UnrealisedGainsLossesOnChangesInFairValueThroughOtherComprehensiveIncomeFinancialAssetsBeforeTax,"Keuntungan (kerugian) yang belum direalisasi atas perubahan nilai wajar aset keuangan melalui penghasilan komprehensif lain, sebelum pajak"
+ReclassificationAdjustmentsOnFairValueThroughOtherComprehensiveIncomeFinancialAssetsBeforeTax,"Penyesuaian reklasifikasi atas aset keuangan nilai wajar melalui pendapatan komprehensif lainnya, sebelum pajak"
+GainsLossesOnCashFlowHedgesBeforeTax,"Keuntungan (kerugian) lindung nilai arus kas, sebelum pajak"
+ReclassificationAdjustmentsOnCashFlowHedgesBeforeTax,"Penyesuaian reklasifikasi atas lindung nilai arus kas, sebelum pajak"
+CarryingAmountOfNonFinancialAssetLiabilityWhoseAcquisitionOrIncurrenceWasHedgedOnHighlyProbableForecastTransactionAdjustedFromEquityBeforeTax,"Nilai tercatat dari aset (liabilitas) non-keuangan yang perolehan atau keterjadiannya merupakan suatu prakiraan transaksi yang kemungkinan besar terjadi yang dilindung nilai, sebelum pajak"
+GainsLossesOnHedgesOfNetInvestmentsInForeignOperationsBeforeTax,"Keuntungan (kerugian) lindung nilai investasi bersih kegiatan usaha luar negeri, sebelum pajak"
+ReclassificationAdjustmentsOnHedgesOfNetInvestmentsInForeignOperationsBeforeTax,"Penyesuaian reklasifikasi atas lindung nilai investasi bersih kegiatan usaha luar negeri, sebelum pajak"
+ShareOfOtherComprehensiveIncomeOfAssociatesAccountedForUsingEquityMethodBeforeTax,"Bagian pendapatan komprehensif lainnya dari entitas asosiasi yang dicatat dengan menggunakan metode ekuitas, sebelum pajak"
+ShareOfOtherComprehensiveIncomeOfJointVenturesAccountedForUsingEquityMethodBeforeTax,"Bagian pendapatan komprehensif lainnya dari entitas ventura bersama yang dicatat dengan menggunakan metode ekuitas, sebelum pajak"
+OtherAdjustmentsToOtherComprehensiveIncomeThatMayBeReclassifiedToProfitOrLossBeforeTax,"Penyesuaian lainnya atas pendapatan komprehensif lainnya yang akan direklasifikasi ke laba rugi, sebelum pajak"
+OtherComprehensiveIncomeThatMayBeReclassifiedToProfitOrLossBeforeTax,"Jumlah pendapatan komprehensif lainnya yang akan direklasifikasi ke laba rugi, sebelum pajak"
+OtherComprehensiveIncomeBeforeTax,"Jumlah pendapatan komprehensif lainnya, sebelum pajak"
+TaxOnOtherComprehensiveIncome,Pajak atas pendapatan komprehensif lainnya
+OtherComprehensiveIncomeForGainsLossesOnRevaluationOfPropertyAndEquipmentAfterTax,"Pendapatan komprehensif lainnya atas keuntungan (kerugian) hasil revaluasi aset tetap, setelah pajak"
+OtherComprehensiveIncomeForRemeasurementOfDefinedBenefitObligationAfterTax,"Pendapatan komprehensif lainnya atas pengukuran kembali kewajiban manfaat pasti, setelah pajak"
+OtherAdjustmentsToOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossAfterTax,"Penyesuaian lainnya atas pendapatan komprehensif lainnya yang tidak akan direklasifikasi ke laba rugi, setelah pajak"
+OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossAfterTax,"Jumlah pendapatan komprehensif lainnya yang tidak akan direklasifikasi ke laba rugi, setelah pajak"
+GainsLossesOnExchangeDifferencesOnTranslationAfterTax,"Keuntungan (kerugian) selisih kurs penjabaran, setelah pajak"
+ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationAfterTax,"Penyesuaian reklasifikasi selisih kurs penjabaran, setelah pajak"
+UnrealisedGainsLossesOnChangesInFairValueThroughOtherComprehensiveIncomeFinancialAssetsAfterTax,"Keuntungan (kerugian) yang belum direalisasi atas perubahan nilai wajar aset keuangan melalui penghasilan komprehensif lain, setelah pajak"
+ReclassificationAdjustmentsOnFairValueThroughOtherComprehensiveIncomeFinancialAssetsAfterTax,"Penyesuaian reklasifikasi atas aset keuangan nilai wajar melalui pendapatan komprehensif lainnya, setelah pajak"
+GainsLossesOnCashFlowHedgesAfterTax,"Keuntungan (kerugian) lindung nilai arus kas, setelah pajak"
+ReclassificationAdjustmentsOnCashFlowHedgesAfterTax,"Penyesuaian reklasifikasi atas lindung nilai arus kas, setelah pajak"
+CarryingAmountOfNonFinancialAssetLiabilityWhoseAcquisitionOrIncurrenceWasHedgedOnHighlyProbableForecastTransactionAdjustedFromEquityAfterTax,"Nilai tercatat dari aset (liabilitas) non-keuangan yang perolehan atau keterjadiannya merupakan suatu prakiraan transaksi yang kemungkinan besar terjadi yang dilindung nilai, setelah pajak"
+GainsLossesOnHedgesOfNetInvestmentsInForeignOperationsAfterTax,"Keuntungan (kerugian) lindung nilai investasi bersih kegiatan usaha luar negeri, setelah pajak"
+ReclassificationAdjustmentsOnHedgesOfNetInvestmentsInForeignOperationsAfterTax,"Penyesuaian reklasifikasi atas lindung nilai investasi bersih kegiatan usaha luar negeri, setelah pajak"
+ShareOfOtherComprehensiveIncomeOfAssociatesAccountedForUsingEquityMethodAfterTax,"Bagian pendapatan komprehensif lainnya dari entitas asosiasi yang dicatat dengan menggunakan metode ekuitas, setelah pajak"
+ShareOfOtherComprehensiveIncomeOfJointVenturesAccountedForUsingEquityMethodAfterTax,"Bagian pendapatan komprehensif lainnya dari entitas ventura bersama yang dicatat dengan menggunakan metode ekuitas, setelah pajak"
+OtherAdjustmentsToOtherComprehensiveIncomeThatMayBeReclassifiedToProfitOrLossAfterTax,"Penyesuaian lainnya atas pendapatan komprehensif lainnya yang akan direklasifikasi ke laba rugi, setelah pajak"
+OtherComprehensiveIncomeThatMayBeReclassifiedToProfitOrLossAfterTax,"Jumlah pendapatan komprehensif lainnya yang akan direklasifikasi ke laba rugi, setelah pajak"
+OtherComprehensiveIncomeAfterTax,"Jumlah pendapatan komprehensif lainnya, setelah pajak"
+ComprehensiveIncome,Jumlah laba rugi komprehensif
+ProfitLossAttributableToParentEntity,Laba (rugi) yang dapat diatribusikan ke entitas induk
+ProfitLossAttributableToNonControllingInterests,Laba (rugi) yang dapat diatribusikan ke kepentingan non-pengendali
+ComprehensiveIncomeAttributableToParentEntity,Laba rugi komprehensif yang dapat diatribusikan ke entitas induk
+ComprehensiveIncomeAttributableToNonControllingInterests,Laba rugi komprehensif yang dapat diatribusikan ke kepentingan non-pengendali
+BasicEarningsLossPerShareFromContinuingOperations,Laba (rugi) per saham dasar dari operasi yang dilanjutkan
+BasicEarningsLossPerShareFromDiscontinuedOperations,Laba (rugi) per saham dasar dari operasi yang dihentikan
+DilutedEarningsLossPerShareFromContinuingOperations,Laba (rugi) per saham dilusian dari operasi yang dilanjutkan
+DilutedEarningsLossPerShareFromDiscontinuedOperations,Laba (rugi) per saham dilusian dari operasi yang dihentikan

@@ -1,0 +1,34 @@
+xbrl_name,formatted_name
+TradePayables_NotYetDueMember,Belum jatuh tempo
+TradePayables_OneToThirtyDaysMember_OverdueMember,Telah jatuh tempo 1 - 30 hari
+TradePayables_OneToSixtyDaysMember_OverdueMember,Telah jatuh tempo 1 - 60 hari
+TradePayables_OneToNinetyDaysMember_OverdueMember,Telah jatuh tempo 1 - 90 hari
+TradePayables_OneToOneHundredEightyDaysMember_OverdueMember,Telah jatuh tempo 1 - 180 hari
+TradePayables_OneToThreeHundredSixtyDaysMember_OverdueMember,Telah jatuh tempo 1 - 360 hari
+TradePayables_ThirtyOneToSixtyDaysMember_OverdueMember,Telah jatuh tempo 31 - 60 hari
+TradePayables_SixtyOneToNinetyDaysMember_OverdueMember,Telah jatuh tempo 61 - 90 hari
+TradePayables_SixtyOneToOneHundredTwentyDaysMember_OverdueMember,Telah jatuh tempo 61 - 120 hari
+TradePayables_NinetyOneToOneHundredTwentyDaysMember_OverdueMember,Telah jatuh tempo 91 - 120 hari
+TradePayables_NinetyOneToOneHundredEightyDaysMember_OverdueMember,Telah jatuh tempo 91 - 180 hari
+TradePayables_OneHundredTwentyOneToOneHundredFiftyDaysMember_OverdueMember,Telah jatuh tempo 121 - 150 hari
+TradePayables_OneHundredTwentyOneToOneHundredEightyDaysMember_OverdueMember,Telah jatuh tempo 121 - 180 hari
+TradePayables_OneHundredFiftyOneToOneHundredEightyDaysMember_OverdueMember,Telah jatuh tempo 151 - 180 hari
+TradePayables_OneHundredEightyOneToTwoHundredSeventyDaysMember_OverdueMember,Telah jatuh tempo 181 - 270 hari
+TradePayables_OneHundredEightyOneToThreeHundredSixtyDaysMember_OverdueMember,Telah jatuh tempo 181 - 360 hari
+TradePayables_TwoHundredSeventyOneToThreeHundredSixtyDaysMember_OverdueMember,Telah jatuh tempo 271 - 360 hari
+TradePayables_ThreeHundredSixtyOneToFiveHundredFourtyDaysMember_OverdueMember,Telah jatuh tempo 361 - 540 hari
+TradePayables_ThreeHundredSixtyOneToSevenHundredTwentyDaysMember_OverdueMember,Telah jatuh tempo  361 - 720 hari
+TradePayables_FiveHundredFourtyOneToSevenHundredTwentyDaysMember_OverdueMember,Telah jatuh tempo 541 - 720 hari
+TradePayables_SevenHundredTwentyOneToOneThousandEightyDaysMember_OverdueMember,Telah jatuh tempo 721 - 1.080 hari
+TradePayables_MoreThanThirtyDaysMember_OverdueMember,Telah jatuh tempo Lebih dari 30 hari
+TradePayables_MoreThanSixtyDaysMember_OverdueMember,Telah jatuh tempo Lebih dari 60 hari
+TradePayables_MoreThanNinetyDaysMember_OverdueMember,Telah jatuh tempo Lebih dari 90 hari
+TradePayables_MoreThanOneHundredTwentyDaysMember_OverdueMember,Telah jatuh tempo Lebih dari 120 hari
+TradePayables_MoreThanOneHundredFiftyDaysMember_OverdueMember,Telah jatuh tempo Lebih dari 150 hari
+TradePayables_MoreThanOneHundredEightyDaysMember_OverdueMember,Telah jatuh tempo Lebih dari 180 hari
+TradePayables_MoreThanTwoHundredSeventyDaysMember_OverdueMember,Telah jatuh tempo Lebih dari 270 hari
+TradePayables_MoreThanThreeHundredSixtyDaysMember_OverdueMember,Telah jatuh tempo Lebih dari 360 hari
+TradePayables_MoreThanFiveHundredFourtyDaysMember_OverdueMember,Telah jatuh tempo Lebih dari 540 hari
+TradePayables_MoreThanSevenHundredTwentyDaysMember_OverdueMember,Telah jatuh tempo Lebih dari 720 hari
+TradePayables_OverdueMember,Telah jatuh tempo
+TradePayables_,Utang usaha

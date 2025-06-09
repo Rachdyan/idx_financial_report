@@ -1,0 +1,15 @@
+xbrl_name,formatted_name
+CurrentAccounts,Giro - Total
+CurrentAccounts_RelatedPartiesMember,Giro - Pihak Berelasi - Total
+CurrentAccounts_RupiahMember_RelatedPartiesMember,Giro - Pihak Berelasi - Rupiah
+CurrentAccounts_ForeignCurrenciesMember_RelatedPartiesMember,Giro - Pihak Berelasi - Mata uang asing
+CurrentAccounts_ThirdPartiesMember,Giro - Pihak Ketiga - Total
+CurrentAccounts_RupiahMember_ThirdPartiesMember,Giro - Pihak Ketiga - Rupiah
+CurrentAccounts_ForeignCurrenciesMember_ThirdPartiesMember,Giro - Pihak Ketiga - Mata uang asing
+WadiahDemandDeposits,Giro wadiah - Total
+WadiahDemandDeposits_RelatedPartiesMember,Giro wadiah - Pihak Berelasi - Total
+WadiahDemandDeposits_RupiahMember_RelatedPartiesMember,Giro wadiah - Pihak Berelasi - Rupiah
+WadiahDemandDeposits_ForeignCurrenciesMember_RelatedPartiesMember,Giro wadiah - Pihak Berelasi - Mata uang asing
+WadiahDemandDeposits_ThirdPartiesMember,Giro wadiah - Pihak Ketiga - Total
+WadiahDemandDeposits_RupiahMember_ThirdPartiesMember,Giro wadiah - Pihak Ketiga - Rupiah
+WadiahDemandDeposits_ForeignCurrenciesMember_ThirdPartiesMember,Giro wadiah - Pihak Ketiga - Mata uang asing

@@ -1,0 +1,18 @@
+xbrl_name,formatted_name
+TotalLoansGross_ConventionalLoansMember,Pinjaman konvensional - Subtotal
+TotalLoansGross_ConventionalLoansMember_RupiahMember_RelatedPartiesMember,Pinjaman konvensional - Pihak berelasi - Rupiah
+TotalLoansGross_ConventionalLoansMember_ForeignCurrenciesMember_RelatedPartiesMember,Pinjaman konvensional - Pihak berelasi - Mata uang asing
+TotalLoansGross_ConventionalLoansMember_RelatedPartiesMember,Pinjaman konvensional - Pihak berelasi - Subtotal
+TotalLoansGross_ConventionalLoansMember_RupiahMember_ThirdPartiesMember,Pinjaman konvensional - Pihak ketiga - Rupiah
+TotalLoansGross_ConventionalLoansMember_ForeignCurrenciesMember_ThirdPartiesMember,Pinjaman konvensional - Pihak ketiga - Mata uang asing
+TotalLoansGross_ConventionalLoansMember_ThirdPartiesMember,Pinjaman konvensional - Pihak ketiga - Subtotal
+TotalLoansGross_ShariaLoansMember,Pinjaman syariah - Subtotal
+TotalLoansGross_ShariaLoansMember_RupiahMember_RelatedPartiesMember,Pinjaman syariah - Pihak berelasi - Rupiah
+TotalLoansGross_ShariaLoansMember_ForeignCurrenciesMember_RelatedPartiesMember,Pinjaman syariah - Pihak berelasi - Mata uang asing
+TotalLoansGross_ShariaLoansMember_RelatedPartiesMember,Pinjaman syariah - Pihak berelasi - Subtotal
+TotalLoansGross_ShariaLoansMember_RupiahMember_ThirdPartiesMember,Pinjaman syariah - Pihak ketiga - Rupiah
+TotalLoansGross_ShariaLoansMember_ForeignCurrenciesMember_ThirdPartiesMember,Pinjaman syariah - Pihak ketiga - Mata uang asing
+TotalLoansGross_ShariaLoansMember_ThirdPartiesMember,Pinjaman syariah - Pihak ketiga - Subtotal
+TotalLoansGross,"Jumlah pinjaman, kotor"
+AllowanceForImpairmentLossesForLoans,Cadangan kerugian penurunan nilai pada pinjaman yang diberikan
+TotalLoansNet,"Jumlah pinjaman, bersih"

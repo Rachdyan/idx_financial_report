@@ -1,0 +1,1105 @@
+xbrl_name,formatted_name
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_IDRMember,"Bank Central Asia Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_IDRMember,Bank Central Asia Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_IDRMember,Bank Central Asia Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_IDRMember,Bank Central Asia Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_AUDMember,"Bank Central Asia Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_AUDMember,Bank Central Asia Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_AUDMember,Bank Central Asia Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_AUDMember,Bank Central Asia Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_CADMember,"Bank Central Asia Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_CADMember,Bank Central Asia Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_CADMember,Bank Central Asia Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_CADMember,Bank Central Asia Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_CNYMember,"Bank Central Asia Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_CNYMember,Bank Central Asia Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_CNYMember,Bank Central Asia Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_CNYMember,Bank Central Asia Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_EURMember,"Bank Central Asia Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_EURMember,Bank Central Asia Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_EURMember,Bank Central Asia Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_EURMember,Bank Central Asia Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_HKDMember,"Bank Central Asia Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_HKDMember,Bank Central Asia Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_HKDMember,Bank Central Asia Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_HKDMember,Bank Central Asia Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_GBPMember,"Bank Central Asia Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_GBPMember,Bank Central Asia Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_GBPMember,Bank Central Asia Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_GBPMember,Bank Central Asia Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_JPYMember,"Bank Central Asia Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_JPYMember,Bank Central Asia Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_JPYMember,Bank Central Asia Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_JPYMember,Bank Central Asia Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_SGDMember,"Bank Central Asia Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_SGDMember,Bank Central Asia Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_SGDMember,Bank Central Asia Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_SGDMember,Bank Central Asia Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_THBMember,"Bank Central Asia Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_THBMember,Bank Central Asia Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_THBMember,Bank Central Asia Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_THBMember,Bank Central Asia Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_USDMember,"Bank Central Asia Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_USDMember,Bank Central Asia Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_USDMember,Bank Central Asia Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_USDMember,Bank Central Asia Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCentralAsiaTbkMember_OtherCurrencyMember,"Bank Central Asia Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCentralAsiaTbkMember_OtherCurrencyMember,Bank Central Asia Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCentralAsiaTbkMember_OtherCurrencyMember,Bank Central Asia Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCentralAsiaTbkMember_OtherCurrencyMember,Bank Central Asia Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_IDRMember,"Bank Rakyat Indonesia (Persero) Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_IDRMember,Bank Rakyat Indonesia (Persero) Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_IDRMember,Bank Rakyat Indonesia (Persero) Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_IDRMember,Bank Rakyat Indonesia (Persero) Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_AUDMember,"Bank Rakyat Indonesia (Persero) Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_AUDMember,Bank Rakyat Indonesia (Persero) Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_AUDMember,Bank Rakyat Indonesia (Persero) Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_AUDMember,Bank Rakyat Indonesia (Persero) Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_CADMember,"Bank Rakyat Indonesia (Persero) Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_CADMember,Bank Rakyat Indonesia (Persero) Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_CADMember,Bank Rakyat Indonesia (Persero) Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_CADMember,Bank Rakyat Indonesia (Persero) Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_CNYMember,"Bank Rakyat Indonesia (Persero) Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_CNYMember,Bank Rakyat Indonesia (Persero) Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_CNYMember,Bank Rakyat Indonesia (Persero) Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_CNYMember,Bank Rakyat Indonesia (Persero) Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_EURMember,"Bank Rakyat Indonesia (Persero) Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_EURMember,Bank Rakyat Indonesia (Persero) Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_EURMember,Bank Rakyat Indonesia (Persero) Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_EURMember,Bank Rakyat Indonesia (Persero) Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_HKDMember,"Bank Rakyat Indonesia (Persero) Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_HKDMember,Bank Rakyat Indonesia (Persero) Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_HKDMember,Bank Rakyat Indonesia (Persero) Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_HKDMember,Bank Rakyat Indonesia (Persero) Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_GBPMember,"Bank Rakyat Indonesia (Persero) Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_GBPMember,Bank Rakyat Indonesia (Persero) Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_GBPMember,Bank Rakyat Indonesia (Persero) Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_GBPMember,Bank Rakyat Indonesia (Persero) Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_JPYMember,"Bank Rakyat Indonesia (Persero) Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_JPYMember,Bank Rakyat Indonesia (Persero) Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_JPYMember,Bank Rakyat Indonesia (Persero) Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_JPYMember,Bank Rakyat Indonesia (Persero) Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_SGDMember,"Bank Rakyat Indonesia (Persero) Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_SGDMember,Bank Rakyat Indonesia (Persero) Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_SGDMember,Bank Rakyat Indonesia (Persero) Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_SGDMember,Bank Rakyat Indonesia (Persero) Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_THBMember,"Bank Rakyat Indonesia (Persero) Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_THBMember,Bank Rakyat Indonesia (Persero) Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_THBMember,Bank Rakyat Indonesia (Persero) Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_THBMember,Bank Rakyat Indonesia (Persero) Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_USDMember,"Bank Rakyat Indonesia (Persero) Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_USDMember,Bank Rakyat Indonesia (Persero) Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_USDMember,Bank Rakyat Indonesia (Persero) Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_USDMember,Bank Rakyat Indonesia (Persero) Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaPerseroTbkMember_OtherCurrencyMember,"Bank Rakyat Indonesia (Persero) Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_OtherCurrencyMember,Bank Rakyat Indonesia (Persero) Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_OtherCurrencyMember,Bank Rakyat Indonesia (Persero) Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaPerseroTbkMember_OtherCurrencyMember,Bank Rakyat Indonesia (Persero) Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_IDRMember,"Bank Mandiri (Persero) Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_IDRMember,Bank Mandiri (Persero) Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_IDRMember,Bank Mandiri (Persero) Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_IDRMember,Bank Mandiri (Persero) Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_AUDMember,"Bank Mandiri (Persero) Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_AUDMember,Bank Mandiri (Persero) Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_AUDMember,Bank Mandiri (Persero) Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_AUDMember,Bank Mandiri (Persero) Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_CADMember,"Bank Mandiri (Persero) Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_CADMember,Bank Mandiri (Persero) Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_CADMember,Bank Mandiri (Persero) Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_CADMember,Bank Mandiri (Persero) Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_CNYMember,"Bank Mandiri (Persero) Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_CNYMember,Bank Mandiri (Persero) Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_CNYMember,Bank Mandiri (Persero) Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_CNYMember,Bank Mandiri (Persero) Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_EURMember,"Bank Mandiri (Persero) Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_EURMember,Bank Mandiri (Persero) Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_EURMember,Bank Mandiri (Persero) Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_EURMember,Bank Mandiri (Persero) Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_HKDMember,"Bank Mandiri (Persero) Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_HKDMember,Bank Mandiri (Persero) Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_HKDMember,Bank Mandiri (Persero) Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_HKDMember,Bank Mandiri (Persero) Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_GBPMember,"Bank Mandiri (Persero) Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_GBPMember,Bank Mandiri (Persero) Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_GBPMember,Bank Mandiri (Persero) Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_GBPMember,Bank Mandiri (Persero) Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_JPYMember,"Bank Mandiri (Persero) Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_JPYMember,Bank Mandiri (Persero) Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_JPYMember,Bank Mandiri (Persero) Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_JPYMember,Bank Mandiri (Persero) Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_SGDMember,"Bank Mandiri (Persero) Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_SGDMember,Bank Mandiri (Persero) Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_SGDMember,Bank Mandiri (Persero) Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_SGDMember,Bank Mandiri (Persero) Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_THBMember,"Bank Mandiri (Persero) Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_THBMember,Bank Mandiri (Persero) Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_THBMember,Bank Mandiri (Persero) Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_THBMember,Bank Mandiri (Persero) Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_USDMember,"Bank Mandiri (Persero) Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_USDMember,Bank Mandiri (Persero) Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_USDMember,Bank Mandiri (Persero) Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_USDMember,Bank Mandiri (Persero) Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMandiriPerseroTbkMember_OtherCurrencyMember,"Bank Mandiri (Persero) Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMandiriPerseroTbkMember_OtherCurrencyMember,Bank Mandiri (Persero) Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMandiriPerseroTbkMember_OtherCurrencyMember,Bank Mandiri (Persero) Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMandiriPerseroTbkMember_OtherCurrencyMember,Bank Mandiri (Persero) Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_IDRMember,"Bank Syariah Indonesia Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_IDRMember,Bank Syariah Indonesia Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_IDRMember,Bank Syariah Indonesia Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_IDRMember,Bank Syariah Indonesia Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_AUDMember,"Bank Syariah Indonesia Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_AUDMember,Bank Syariah Indonesia Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_AUDMember,Bank Syariah Indonesia Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_AUDMember,Bank Syariah Indonesia Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_CADMember,"Bank Syariah Indonesia Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_CADMember,Bank Syariah Indonesia Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_CADMember,Bank Syariah Indonesia Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_CADMember,Bank Syariah Indonesia Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_CNYMember,"Bank Syariah Indonesia Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_CNYMember,Bank Syariah Indonesia Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_CNYMember,Bank Syariah Indonesia Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_CNYMember,Bank Syariah Indonesia Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_EURMember,"Bank Syariah Indonesia Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_EURMember,Bank Syariah Indonesia Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_EURMember,Bank Syariah Indonesia Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_EURMember,Bank Syariah Indonesia Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_HKDMember,"Bank Syariah Indonesia Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_HKDMember,Bank Syariah Indonesia Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_HKDMember,Bank Syariah Indonesia Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_HKDMember,Bank Syariah Indonesia Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_GBPMember,"Bank Syariah Indonesia Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_GBPMember,Bank Syariah Indonesia Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_GBPMember,Bank Syariah Indonesia Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_GBPMember,Bank Syariah Indonesia Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_JPYMember,"Bank Syariah Indonesia Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_JPYMember,Bank Syariah Indonesia Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_JPYMember,Bank Syariah Indonesia Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_JPYMember,Bank Syariah Indonesia Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_SGDMember,"Bank Syariah Indonesia Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_SGDMember,Bank Syariah Indonesia Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_SGDMember,Bank Syariah Indonesia Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_SGDMember,Bank Syariah Indonesia Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_THBMember,"Bank Syariah Indonesia Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_THBMember,Bank Syariah Indonesia Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_THBMember,Bank Syariah Indonesia Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_THBMember,Bank Syariah Indonesia Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_USDMember,"Bank Syariah Indonesia Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_USDMember,Bank Syariah Indonesia Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_USDMember,Bank Syariah Indonesia Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_USDMember,Bank Syariah Indonesia Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankSyariahIndonesiaTbkMember_OtherCurrencyMember,"Bank Syariah Indonesia Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_OtherCurrencyMember,Bank Syariah Indonesia Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankSyariahIndonesiaTbkMember_OtherCurrencyMember,Bank Syariah Indonesia Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankSyariahIndonesiaTbkMember_OtherCurrencyMember,Bank Syariah Indonesia Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_IDRMember,"Bank Negara Indonesia (Persero) Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_IDRMember,Bank Negara Indonesia (Persero) Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_IDRMember,Bank Negara Indonesia (Persero) Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_IDRMember,Bank Negara Indonesia (Persero) Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_AUDMember,"Bank Negara Indonesia (Persero) Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_AUDMember,Bank Negara Indonesia (Persero) Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_AUDMember,Bank Negara Indonesia (Persero) Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_AUDMember,Bank Negara Indonesia (Persero) Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_CADMember,"Bank Negara Indonesia (Persero) Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_CADMember,Bank Negara Indonesia (Persero) Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_CADMember,Bank Negara Indonesia (Persero) Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_CADMember,Bank Negara Indonesia (Persero) Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_CNYMember,"Bank Negara Indonesia (Persero) Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_CNYMember,Bank Negara Indonesia (Persero) Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_CNYMember,Bank Negara Indonesia (Persero) Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_CNYMember,Bank Negara Indonesia (Persero) Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_EURMember,"Bank Negara Indonesia (Persero) Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_EURMember,Bank Negara Indonesia (Persero) Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_EURMember,Bank Negara Indonesia (Persero) Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_EURMember,Bank Negara Indonesia (Persero) Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_HKDMember,"Bank Negara Indonesia (Persero) Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_HKDMember,Bank Negara Indonesia (Persero) Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_HKDMember,Bank Negara Indonesia (Persero) Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_HKDMember,Bank Negara Indonesia (Persero) Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_GBPMember,"Bank Negara Indonesia (Persero) Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_GBPMember,Bank Negara Indonesia (Persero) Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_GBPMember,Bank Negara Indonesia (Persero) Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_GBPMember,Bank Negara Indonesia (Persero) Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_JPYMember,"Bank Negara Indonesia (Persero) Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_JPYMember,Bank Negara Indonesia (Persero) Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_JPYMember,Bank Negara Indonesia (Persero) Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_JPYMember,Bank Negara Indonesia (Persero) Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_SGDMember,"Bank Negara Indonesia (Persero) Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_SGDMember,Bank Negara Indonesia (Persero) Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_SGDMember,Bank Negara Indonesia (Persero) Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_SGDMember,Bank Negara Indonesia (Persero) Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_THBMember,"Bank Negara Indonesia (Persero) Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_THBMember,Bank Negara Indonesia (Persero) Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_THBMember,Bank Negara Indonesia (Persero) Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_THBMember,Bank Negara Indonesia (Persero) Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_USDMember,"Bank Negara Indonesia (Persero) Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_USDMember,Bank Negara Indonesia (Persero) Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_USDMember,Bank Negara Indonesia (Persero) Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_USDMember,Bank Negara Indonesia (Persero) Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankNegaraIndonesiaPerseroTbkMember_OtherCurrencyMember,"Bank Negara Indonesia (Persero) Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_OtherCurrencyMember,Bank Negara Indonesia (Persero) Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_OtherCurrencyMember,Bank Negara Indonesia (Persero) Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankNegaraIndonesiaPerseroTbkMember_OtherCurrencyMember,Bank Negara Indonesia (Persero) Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_IDRMember,"Bank Jago Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_IDRMember,Bank Jago Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_IDRMember,Bank Jago Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_IDRMember,Bank Jago Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_AUDMember,"Bank Jago Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_AUDMember,Bank Jago Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_AUDMember,Bank Jago Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_AUDMember,Bank Jago Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_CADMember,"Bank Jago Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_CADMember,Bank Jago Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_CADMember,Bank Jago Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_CADMember,Bank Jago Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_CNYMember,"Bank Jago Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_CNYMember,Bank Jago Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_CNYMember,Bank Jago Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_CNYMember,Bank Jago Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_EURMember,"Bank Jago Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_EURMember,Bank Jago Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_EURMember,Bank Jago Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_EURMember,Bank Jago Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_HKDMember,"Bank Jago Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_HKDMember,Bank Jago Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_HKDMember,Bank Jago Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_HKDMember,Bank Jago Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_GBPMember,"Bank Jago Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_GBPMember,Bank Jago Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_GBPMember,Bank Jago Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_GBPMember,Bank Jago Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_JPYMember,"Bank Jago Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_JPYMember,Bank Jago Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_JPYMember,Bank Jago Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_JPYMember,Bank Jago Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_SGDMember,"Bank Jago Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_SGDMember,Bank Jago Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_SGDMember,Bank Jago Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_SGDMember,Bank Jago Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_THBMember,"Bank Jago Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_THBMember,Bank Jago Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_THBMember,Bank Jago Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_THBMember,Bank Jago Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_USDMember,"Bank Jago Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_USDMember,Bank Jago Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_USDMember,Bank Jago Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_USDMember,Bank Jago Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankJagoTbkMember_OtherCurrencyMember,"Bank Jago Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankJagoTbkMember_OtherCurrencyMember,Bank Jago Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankJagoTbkMember_OtherCurrencyMember,Bank Jago Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankJagoTbkMember_OtherCurrencyMember,Bank Jago Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_IDRMember,"Bank Permata Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_IDRMember,Bank Permata Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_IDRMember,Bank Permata Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_IDRMember,Bank Permata Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_AUDMember,"Bank Permata Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_AUDMember,Bank Permata Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_AUDMember,Bank Permata Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_AUDMember,Bank Permata Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_CADMember,"Bank Permata Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_CADMember,Bank Permata Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_CADMember,Bank Permata Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_CADMember,Bank Permata Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_CNYMember,"Bank Permata Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_CNYMember,Bank Permata Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_CNYMember,Bank Permata Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_CNYMember,Bank Permata Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_EURMember,"Bank Permata Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_EURMember,Bank Permata Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_EURMember,Bank Permata Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_EURMember,Bank Permata Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_HKDMember,"Bank Permata Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_HKDMember,Bank Permata Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_HKDMember,Bank Permata Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_HKDMember,Bank Permata Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_GBPMember,"Bank Permata Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_GBPMember,Bank Permata Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_GBPMember,Bank Permata Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_GBPMember,Bank Permata Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_JPYMember,"Bank Permata Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_JPYMember,Bank Permata Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_JPYMember,Bank Permata Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_JPYMember,Bank Permata Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_SGDMember,"Bank Permata Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_SGDMember,Bank Permata Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_SGDMember,Bank Permata Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_SGDMember,Bank Permata Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_THBMember,"Bank Permata Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_THBMember,Bank Permata Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_THBMember,Bank Permata Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_THBMember,Bank Permata Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_USDMember,"Bank Permata Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_USDMember,Bank Permata Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_USDMember,Bank Permata Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_USDMember,Bank Permata Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPermataTbkMember_OtherCurrencyMember,"Bank Permata Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPermataTbkMember_OtherCurrencyMember,Bank Permata Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPermataTbkMember_OtherCurrencyMember,Bank Permata Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPermataTbkMember_OtherCurrencyMember,Bank Permata Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_IDRMember,"Bank Mega Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_IDRMember,Bank Mega Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_IDRMember,Bank Mega Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_IDRMember,Bank Mega Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_AUDMember,"Bank Mega Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_AUDMember,Bank Mega Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_AUDMember,Bank Mega Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_AUDMember,Bank Mega Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_CADMember,"Bank Mega Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_CADMember,Bank Mega Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_CADMember,Bank Mega Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_CADMember,Bank Mega Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_CNYMember,"Bank Mega Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_CNYMember,Bank Mega Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_CNYMember,Bank Mega Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_CNYMember,Bank Mega Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_EURMember,"Bank Mega Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_EURMember,Bank Mega Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_EURMember,Bank Mega Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_EURMember,Bank Mega Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_HKDMember,"Bank Mega Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_HKDMember,Bank Mega Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_HKDMember,Bank Mega Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_HKDMember,Bank Mega Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_GBPMember,"Bank Mega Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_GBPMember,Bank Mega Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_GBPMember,Bank Mega Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_GBPMember,Bank Mega Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_JPYMember,"Bank Mega Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_JPYMember,Bank Mega Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_JPYMember,Bank Mega Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_JPYMember,Bank Mega Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_SGDMember,"Bank Mega Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_SGDMember,Bank Mega Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_SGDMember,Bank Mega Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_SGDMember,Bank Mega Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_THBMember,"Bank Mega Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_THBMember,Bank Mega Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_THBMember,Bank Mega Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_THBMember,Bank Mega Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_USDMember,"Bank Mega Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_USDMember,Bank Mega Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_USDMember,Bank Mega Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_USDMember,Bank Mega Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMegaTbkMember_OtherCurrencyMember,"Bank Mega Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMegaTbkMember_OtherCurrencyMember,Bank Mega Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMegaTbkMember_OtherCurrencyMember,Bank Mega Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMegaTbkMember_OtherCurrencyMember,Bank Mega Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_IDRMember,"Bank Mayapada Internasional Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_IDRMember,Bank Mayapada Internasional Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_IDRMember,Bank Mayapada Internasional Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_IDRMember,Bank Mayapada Internasional Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_AUDMember,"Bank Mayapada Internasional Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_AUDMember,Bank Mayapada Internasional Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_AUDMember,Bank Mayapada Internasional Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_AUDMember,Bank Mayapada Internasional Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_CADMember,"Bank Mayapada Internasional Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_CADMember,Bank Mayapada Internasional Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_CADMember,Bank Mayapada Internasional Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_CADMember,Bank Mayapada Internasional Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_CNYMember,"Bank Mayapada Internasional Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_CNYMember,Bank Mayapada Internasional Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_CNYMember,Bank Mayapada Internasional Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_CNYMember,Bank Mayapada Internasional Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_EURMember,"Bank Mayapada Internasional Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_EURMember,Bank Mayapada Internasional Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_EURMember,Bank Mayapada Internasional Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_EURMember,Bank Mayapada Internasional Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_HKDMember,"Bank Mayapada Internasional Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_HKDMember,Bank Mayapada Internasional Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_HKDMember,Bank Mayapada Internasional Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_HKDMember,Bank Mayapada Internasional Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_GBPMember,"Bank Mayapada Internasional Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_GBPMember,Bank Mayapada Internasional Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_GBPMember,Bank Mayapada Internasional Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_GBPMember,Bank Mayapada Internasional Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_JPYMember,"Bank Mayapada Internasional Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_JPYMember,Bank Mayapada Internasional Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_JPYMember,Bank Mayapada Internasional Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_JPYMember,Bank Mayapada Internasional Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_SGDMember,"Bank Mayapada Internasional Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_SGDMember,Bank Mayapada Internasional Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_SGDMember,Bank Mayapada Internasional Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_SGDMember,Bank Mayapada Internasional Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_THBMember,"Bank Mayapada Internasional Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_THBMember,Bank Mayapada Internasional Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_THBMember,Bank Mayapada Internasional Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_THBMember,Bank Mayapada Internasional Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_USDMember,"Bank Mayapada Internasional Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_USDMember,Bank Mayapada Internasional Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_USDMember,Bank Mayapada Internasional Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_USDMember,Bank Mayapada Internasional Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMayapadaInternasionalTbkMember_OtherCurrencyMember,"Bank Mayapada Internasional Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_OtherCurrencyMember,Bank Mayapada Internasional Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMayapadaInternasionalTbkMember_OtherCurrencyMember,Bank Mayapada Internasional Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMayapadaInternasionalTbkMember_OtherCurrencyMember,Bank Mayapada Internasional Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_IDRMember,"Bank Danamon Indonesia Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_IDRMember,Bank Danamon Indonesia Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_IDRMember,Bank Danamon Indonesia Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_IDRMember,Bank Danamon Indonesia Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_AUDMember,"Bank Danamon Indonesia Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_AUDMember,Bank Danamon Indonesia Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_AUDMember,Bank Danamon Indonesia Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_AUDMember,Bank Danamon Indonesia Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_CADMember,"Bank Danamon Indonesia Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_CADMember,Bank Danamon Indonesia Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_CADMember,Bank Danamon Indonesia Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_CADMember,Bank Danamon Indonesia Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_CNYMember,"Bank Danamon Indonesia Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_CNYMember,Bank Danamon Indonesia Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_CNYMember,Bank Danamon Indonesia Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_CNYMember,Bank Danamon Indonesia Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_EURMember,"Bank Danamon Indonesia Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_EURMember,Bank Danamon Indonesia Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_EURMember,Bank Danamon Indonesia Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_EURMember,Bank Danamon Indonesia Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_HKDMember,"Bank Danamon Indonesia Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_HKDMember,Bank Danamon Indonesia Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_HKDMember,Bank Danamon Indonesia Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_HKDMember,Bank Danamon Indonesia Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_GBPMember,"Bank Danamon Indonesia Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_GBPMember,Bank Danamon Indonesia Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_GBPMember,Bank Danamon Indonesia Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_GBPMember,Bank Danamon Indonesia Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_JPYMember,"Bank Danamon Indonesia Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_JPYMember,Bank Danamon Indonesia Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_JPYMember,Bank Danamon Indonesia Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_JPYMember,Bank Danamon Indonesia Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_SGDMember,"Bank Danamon Indonesia Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_SGDMember,Bank Danamon Indonesia Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_SGDMember,Bank Danamon Indonesia Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_SGDMember,Bank Danamon Indonesia Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_THBMember,"Bank Danamon Indonesia Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_THBMember,Bank Danamon Indonesia Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_THBMember,Bank Danamon Indonesia Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_THBMember,Bank Danamon Indonesia Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_USDMember,"Bank Danamon Indonesia Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_USDMember,Bank Danamon Indonesia Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_USDMember,Bank Danamon Indonesia Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_USDMember,Bank Danamon Indonesia Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankDanamonIndonesiaTbkMember_OtherCurrencyMember,"Bank Danamon Indonesia Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_OtherCurrencyMember,Bank Danamon Indonesia Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankDanamonIndonesiaTbkMember_OtherCurrencyMember,Bank Danamon Indonesia Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankDanamonIndonesiaTbkMember_OtherCurrencyMember,Bank Danamon Indonesia Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_IDRMember,"Bank BTPN Syariah Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_IDRMember,Bank BTPN Syariah Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_IDRMember,Bank BTPN Syariah Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_IDRMember,Bank BTPN Syariah Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_AUDMember,"Bank BTPN Syariah Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_AUDMember,Bank BTPN Syariah Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_AUDMember,Bank BTPN Syariah Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_AUDMember,Bank BTPN Syariah Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_CADMember,"Bank BTPN Syariah Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_CADMember,Bank BTPN Syariah Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_CADMember,Bank BTPN Syariah Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_CADMember,Bank BTPN Syariah Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_CNYMember,"Bank BTPN Syariah Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_CNYMember,Bank BTPN Syariah Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_CNYMember,Bank BTPN Syariah Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_CNYMember,Bank BTPN Syariah Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_EURMember,"Bank BTPN Syariah Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_EURMember,Bank BTPN Syariah Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_EURMember,Bank BTPN Syariah Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_EURMember,Bank BTPN Syariah Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_HKDMember,"Bank BTPN Syariah Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_HKDMember,Bank BTPN Syariah Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_HKDMember,Bank BTPN Syariah Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_HKDMember,Bank BTPN Syariah Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_GBPMember,"Bank BTPN Syariah Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_GBPMember,Bank BTPN Syariah Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_GBPMember,Bank BTPN Syariah Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_GBPMember,Bank BTPN Syariah Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_JPYMember,"Bank BTPN Syariah Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_JPYMember,Bank BTPN Syariah Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_JPYMember,Bank BTPN Syariah Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_JPYMember,Bank BTPN Syariah Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_SGDMember,"Bank BTPN Syariah Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_SGDMember,Bank BTPN Syariah Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_SGDMember,Bank BTPN Syariah Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_SGDMember,Bank BTPN Syariah Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_THBMember,"Bank BTPN Syariah Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_THBMember,Bank BTPN Syariah Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_THBMember,Bank BTPN Syariah Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_THBMember,Bank BTPN Syariah Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_USDMember,"Bank BTPN Syariah Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_USDMember,Bank BTPN Syariah Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_USDMember,Bank BTPN Syariah Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_USDMember,Bank BTPN Syariah Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNSyariahTbkMember_OtherCurrencyMember,"Bank BTPN Syariah Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNSyariahTbkMember_OtherCurrencyMember,Bank BTPN Syariah Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNSyariahTbkMember_OtherCurrencyMember,Bank BTPN Syariah Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNSyariahTbkMember_OtherCurrencyMember,Bank BTPN Syariah Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_IDRMember,"Bank Maybank Indonesia Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_IDRMember,Bank Maybank Indonesia Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_IDRMember,Bank Maybank Indonesia Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_IDRMember,Bank Maybank Indonesia Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_AUDMember,"Bank Maybank Indonesia Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_AUDMember,Bank Maybank Indonesia Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_AUDMember,Bank Maybank Indonesia Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_AUDMember,Bank Maybank Indonesia Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_CADMember,"Bank Maybank Indonesia Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_CADMember,Bank Maybank Indonesia Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_CADMember,Bank Maybank Indonesia Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_CADMember,Bank Maybank Indonesia Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_CNYMember,"Bank Maybank Indonesia Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_CNYMember,Bank Maybank Indonesia Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_CNYMember,Bank Maybank Indonesia Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_CNYMember,Bank Maybank Indonesia Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_EURMember,"Bank Maybank Indonesia Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_EURMember,Bank Maybank Indonesia Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_EURMember,Bank Maybank Indonesia Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_EURMember,Bank Maybank Indonesia Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_HKDMember,"Bank Maybank Indonesia Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_HKDMember,Bank Maybank Indonesia Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_HKDMember,Bank Maybank Indonesia Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_HKDMember,Bank Maybank Indonesia Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_GBPMember,"Bank Maybank Indonesia Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_GBPMember,Bank Maybank Indonesia Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_GBPMember,Bank Maybank Indonesia Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_GBPMember,Bank Maybank Indonesia Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_JPYMember,"Bank Maybank Indonesia Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_JPYMember,Bank Maybank Indonesia Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_JPYMember,Bank Maybank Indonesia Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_JPYMember,Bank Maybank Indonesia Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_SGDMember,"Bank Maybank Indonesia Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_SGDMember,Bank Maybank Indonesia Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_SGDMember,Bank Maybank Indonesia Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_SGDMember,Bank Maybank Indonesia Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_THBMember,"Bank Maybank Indonesia Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_THBMember,Bank Maybank Indonesia Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_THBMember,Bank Maybank Indonesia Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_THBMember,Bank Maybank Indonesia Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_USDMember,"Bank Maybank Indonesia Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_USDMember,Bank Maybank Indonesia Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_USDMember,Bank Maybank Indonesia Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_USDMember,Bank Maybank Indonesia Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankMaybankIndonesiaTbkMember_OtherCurrencyMember,"Bank Maybank Indonesia Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_OtherCurrencyMember,Bank Maybank Indonesia Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankMaybankIndonesiaTbkMember_OtherCurrencyMember,Bank Maybank Indonesia Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankMaybankIndonesiaTbkMember_OtherCurrencyMember,Bank Maybank Indonesia Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_IDRMember,"Bank Pan Indonesia Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_IDRMember,Bank Pan Indonesia Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_IDRMember,Bank Pan Indonesia Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_IDRMember,Bank Pan Indonesia Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_AUDMember,"Bank Pan Indonesia Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_AUDMember,Bank Pan Indonesia Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_AUDMember,Bank Pan Indonesia Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_AUDMember,Bank Pan Indonesia Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_CADMember,"Bank Pan Indonesia Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_CADMember,Bank Pan Indonesia Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_CADMember,Bank Pan Indonesia Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_CADMember,Bank Pan Indonesia Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_CNYMember,"Bank Pan Indonesia Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_CNYMember,Bank Pan Indonesia Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_CNYMember,Bank Pan Indonesia Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_CNYMember,Bank Pan Indonesia Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_EURMember,"Bank Pan Indonesia Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_EURMember,Bank Pan Indonesia Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_EURMember,Bank Pan Indonesia Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_EURMember,Bank Pan Indonesia Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_HKDMember,"Bank Pan Indonesia Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_HKDMember,Bank Pan Indonesia Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_HKDMember,Bank Pan Indonesia Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_HKDMember,Bank Pan Indonesia Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_GBPMember,"Bank Pan Indonesia Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_GBPMember,Bank Pan Indonesia Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_GBPMember,Bank Pan Indonesia Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_GBPMember,Bank Pan Indonesia Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_JPYMember,"Bank Pan Indonesia Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_JPYMember,Bank Pan Indonesia Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_JPYMember,Bank Pan Indonesia Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_JPYMember,Bank Pan Indonesia Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_SGDMember,"Bank Pan Indonesia Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_SGDMember,Bank Pan Indonesia Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_SGDMember,Bank Pan Indonesia Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_SGDMember,Bank Pan Indonesia Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_THBMember,"Bank Pan Indonesia Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_THBMember,Bank Pan Indonesia Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_THBMember,Bank Pan Indonesia Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_THBMember,Bank Pan Indonesia Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_USDMember,"Bank Pan Indonesia Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_USDMember,Bank Pan Indonesia Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_USDMember,Bank Pan Indonesia Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_USDMember,Bank Pan Indonesia Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPanIndonesiaTbkMember_OtherCurrencyMember,"Bank Pan Indonesia Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPanIndonesiaTbkMember_OtherCurrencyMember,Bank Pan Indonesia Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPanIndonesiaTbkMember_OtherCurrencyMember,Bank Pan Indonesia Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPanIndonesiaTbkMember_OtherCurrencyMember,Bank Pan Indonesia Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_IDRMember,"Bank Cimb Niaga Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_IDRMember,Bank Cimb Niaga Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_IDRMember,Bank Cimb Niaga Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_IDRMember,Bank Cimb Niaga Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_AUDMember,"Bank Cimb Niaga Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_AUDMember,Bank Cimb Niaga Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_AUDMember,Bank Cimb Niaga Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_AUDMember,Bank Cimb Niaga Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_CADMember,"Bank Cimb Niaga Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_CADMember,Bank Cimb Niaga Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_CADMember,Bank Cimb Niaga Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_CADMember,Bank Cimb Niaga Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_CNYMember,"Bank Cimb Niaga Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_CNYMember,Bank Cimb Niaga Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_CNYMember,Bank Cimb Niaga Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_CNYMember,Bank Cimb Niaga Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_EURMember,"Bank Cimb Niaga Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_EURMember,Bank Cimb Niaga Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_EURMember,Bank Cimb Niaga Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_EURMember,Bank Cimb Niaga Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_HKDMember,"Bank Cimb Niaga Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_HKDMember,Bank Cimb Niaga Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_HKDMember,Bank Cimb Niaga Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_HKDMember,Bank Cimb Niaga Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_GBPMember,"Bank Cimb Niaga Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_GBPMember,Bank Cimb Niaga Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_GBPMember,Bank Cimb Niaga Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_GBPMember,Bank Cimb Niaga Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_JPYMember,"Bank Cimb Niaga Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_JPYMember,Bank Cimb Niaga Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_JPYMember,Bank Cimb Niaga Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_JPYMember,Bank Cimb Niaga Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_SGDMember,"Bank Cimb Niaga Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_SGDMember,Bank Cimb Niaga Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_SGDMember,Bank Cimb Niaga Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_SGDMember,Bank Cimb Niaga Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_THBMember,"Bank Cimb Niaga Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_THBMember,Bank Cimb Niaga Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_THBMember,Bank Cimb Niaga Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_THBMember,Bank Cimb Niaga Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_USDMember,"Bank Cimb Niaga Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_USDMember,Bank Cimb Niaga Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_USDMember,Bank Cimb Niaga Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_USDMember,Bank Cimb Niaga Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankCIMBNiagaTbkMember_OtherCurrencyMember,"Bank Cimb Niaga Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankCIMBNiagaTbkMember_OtherCurrencyMember,Bank Cimb Niaga Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankCIMBNiagaTbkMember_OtherCurrencyMember,Bank Cimb Niaga Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankCIMBNiagaTbkMember_OtherCurrencyMember,Bank Cimb Niaga Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_IDRMember,"Bank Rakyat Indonesia Agroniaga Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_IDRMember,Bank Rakyat Indonesia Agroniaga Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_IDRMember,Bank Rakyat Indonesia Agroniaga Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_IDRMember,Bank Rakyat Indonesia Agroniaga Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_AUDMember,"Bank Rakyat Indonesia Agroniaga Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_AUDMember,Bank Rakyat Indonesia Agroniaga Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_AUDMember,Bank Rakyat Indonesia Agroniaga Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_AUDMember,Bank Rakyat Indonesia Agroniaga Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_CADMember,"Bank Rakyat Indonesia Agroniaga Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_CADMember,Bank Rakyat Indonesia Agroniaga Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_CADMember,Bank Rakyat Indonesia Agroniaga Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_CADMember,Bank Rakyat Indonesia Agroniaga Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_CNYMember,"Bank Rakyat Indonesia Agroniaga Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_CNYMember,Bank Rakyat Indonesia Agroniaga Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_CNYMember,Bank Rakyat Indonesia Agroniaga Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_CNYMember,Bank Rakyat Indonesia Agroniaga Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_EURMember,"Bank Rakyat Indonesia Agroniaga Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_EURMember,Bank Rakyat Indonesia Agroniaga Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_EURMember,Bank Rakyat Indonesia Agroniaga Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_EURMember,Bank Rakyat Indonesia Agroniaga Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_HKDMember,"Bank Rakyat Indonesia Agroniaga Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_HKDMember,Bank Rakyat Indonesia Agroniaga Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_HKDMember,Bank Rakyat Indonesia Agroniaga Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_HKDMember,Bank Rakyat Indonesia Agroniaga Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_GBPMember,"Bank Rakyat Indonesia Agroniaga Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_GBPMember,Bank Rakyat Indonesia Agroniaga Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_GBPMember,Bank Rakyat Indonesia Agroniaga Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_GBPMember,Bank Rakyat Indonesia Agroniaga Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_JPYMember,"Bank Rakyat Indonesia Agroniaga Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_JPYMember,Bank Rakyat Indonesia Agroniaga Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_JPYMember,Bank Rakyat Indonesia Agroniaga Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_JPYMember,Bank Rakyat Indonesia Agroniaga Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_SGDMember,"Bank Rakyat Indonesia Agroniaga Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_SGDMember,Bank Rakyat Indonesia Agroniaga Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_SGDMember,Bank Rakyat Indonesia Agroniaga Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_SGDMember,Bank Rakyat Indonesia Agroniaga Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_THBMember,"Bank Rakyat Indonesia Agroniaga Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_THBMember,Bank Rakyat Indonesia Agroniaga Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_THBMember,Bank Rakyat Indonesia Agroniaga Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_THBMember,Bank Rakyat Indonesia Agroniaga Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_USDMember,"Bank Rakyat Indonesia Agroniaga Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_USDMember,Bank Rakyat Indonesia Agroniaga Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_USDMember,Bank Rakyat Indonesia Agroniaga Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_USDMember,Bank Rakyat Indonesia Agroniaga Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankRakyatIndonesiaAgroniagaTbkMember_OtherCurrencyMember,"Bank Rakyat Indonesia Agroniaga Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_OtherCurrencyMember,Bank Rakyat Indonesia Agroniaga Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_OtherCurrencyMember,Bank Rakyat Indonesia Agroniaga Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankRakyatIndonesiaAgroniagaTbkMember_OtherCurrencyMember,Bank Rakyat Indonesia Agroniaga Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_IDRMember,"Bank Btpn Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_IDRMember,Bank Btpn Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_IDRMember,Bank Btpn Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_IDRMember,Bank Btpn Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_AUDMember,"Bank Btpn Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_AUDMember,Bank Btpn Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_AUDMember,Bank Btpn Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_AUDMember,Bank Btpn Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_CADMember,"Bank Btpn Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_CADMember,Bank Btpn Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_CADMember,Bank Btpn Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_CADMember,Bank Btpn Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_CNYMember,"Bank Btpn Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_CNYMember,Bank Btpn Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_CNYMember,Bank Btpn Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_CNYMember,Bank Btpn Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_EURMember,"Bank Btpn Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_EURMember,Bank Btpn Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_EURMember,Bank Btpn Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_EURMember,Bank Btpn Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_HKDMember,"Bank Btpn Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_HKDMember,Bank Btpn Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_HKDMember,Bank Btpn Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_HKDMember,Bank Btpn Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_GBPMember,"Bank Btpn Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_GBPMember,Bank Btpn Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_GBPMember,Bank Btpn Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_GBPMember,Bank Btpn Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_JPYMember,"Bank Btpn Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_JPYMember,Bank Btpn Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_JPYMember,Bank Btpn Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_JPYMember,Bank Btpn Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_SGDMember,"Bank Btpn Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_SGDMember,Bank Btpn Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_SGDMember,Bank Btpn Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_SGDMember,Bank Btpn Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_THBMember,"Bank Btpn Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_THBMember,Bank Btpn Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_THBMember,Bank Btpn Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_THBMember,Bank Btpn Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_USDMember,"Bank Btpn Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_USDMember,Bank Btpn Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_USDMember,Bank Btpn Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_USDMember,Bank Btpn Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankBTPNTbkMember_OtherCurrencyMember,"Bank Btpn Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankBTPNTbkMember_OtherCurrencyMember,Bank Btpn Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankBTPNTbkMember_OtherCurrencyMember,Bank Btpn Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankBTPNTbkMember_OtherCurrencyMember,Bank Btpn Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_IDRMember,"Bank Tabungan Negara (Persero) Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_IDRMember,Bank Tabungan Negara (Persero) Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_IDRMember,Bank Tabungan Negara (Persero) Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_IDRMember,Bank Tabungan Negara (Persero) Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_AUDMember,"Bank Tabungan Negara (Persero) Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_AUDMember,Bank Tabungan Negara (Persero) Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_AUDMember,Bank Tabungan Negara (Persero) Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_AUDMember,Bank Tabungan Negara (Persero) Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_CADMember,"Bank Tabungan Negara (Persero) Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_CADMember,Bank Tabungan Negara (Persero) Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_CADMember,Bank Tabungan Negara (Persero) Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_CADMember,Bank Tabungan Negara (Persero) Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_CNYMember,"Bank Tabungan Negara (Persero) Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_CNYMember,Bank Tabungan Negara (Persero) Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_CNYMember,Bank Tabungan Negara (Persero) Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_CNYMember,Bank Tabungan Negara (Persero) Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_EURMember,"Bank Tabungan Negara (Persero) Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_EURMember,Bank Tabungan Negara (Persero) Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_EURMember,Bank Tabungan Negara (Persero) Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_EURMember,Bank Tabungan Negara (Persero) Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_HKDMember,"Bank Tabungan Negara (Persero) Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_HKDMember,Bank Tabungan Negara (Persero) Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_HKDMember,Bank Tabungan Negara (Persero) Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_HKDMember,Bank Tabungan Negara (Persero) Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_GBPMember,"Bank Tabungan Negara (Persero) Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_GBPMember,Bank Tabungan Negara (Persero) Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_GBPMember,Bank Tabungan Negara (Persero) Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_GBPMember,Bank Tabungan Negara (Persero) Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_JPYMember,"Bank Tabungan Negara (Persero) Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_JPYMember,Bank Tabungan Negara (Persero) Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_JPYMember,Bank Tabungan Negara (Persero) Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_JPYMember,Bank Tabungan Negara (Persero) Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_SGDMember,"Bank Tabungan Negara (Persero) Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_SGDMember,Bank Tabungan Negara (Persero) Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_SGDMember,Bank Tabungan Negara (Persero) Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_SGDMember,Bank Tabungan Negara (Persero) Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_THBMember,"Bank Tabungan Negara (Persero) Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_THBMember,Bank Tabungan Negara (Persero) Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_THBMember,Bank Tabungan Negara (Persero) Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_THBMember,Bank Tabungan Negara (Persero) Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_USDMember,"Bank Tabungan Negara (Persero) Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_USDMember,Bank Tabungan Negara (Persero) Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_USDMember,Bank Tabungan Negara (Persero) Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_USDMember,Bank Tabungan Negara (Persero) Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankTabunganNegaraPerseroTbkMember_OtherCurrencyMember,"Bank Tabungan Negara (Persero) Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_OtherCurrencyMember,Bank Tabungan Negara (Persero) Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_OtherCurrencyMember,Bank Tabungan Negara (Persero) Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankTabunganNegaraPerseroTbkMember_OtherCurrencyMember,Bank Tabungan Negara (Persero) Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_IDRMember,"Bank OCBC Nisp Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_IDRMember,Bank OCBC Nisp Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_IDRMember,Bank OCBC Nisp Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_IDRMember,Bank OCBC Nisp Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_AUDMember,"Bank OCBC Nisp Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_AUDMember,Bank OCBC Nisp Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_AUDMember,Bank OCBC Nisp Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_AUDMember,Bank OCBC Nisp Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_CADMember,"Bank OCBC Nisp Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_CADMember,Bank OCBC Nisp Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_CADMember,Bank OCBC Nisp Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_CADMember,Bank OCBC Nisp Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_CNYMember,"Bank OCBC Nisp Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_CNYMember,Bank OCBC Nisp Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_CNYMember,Bank OCBC Nisp Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_CNYMember,Bank OCBC Nisp Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_EURMember,"Bank OCBC Nisp Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_EURMember,Bank OCBC Nisp Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_EURMember,Bank OCBC Nisp Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_EURMember,Bank OCBC Nisp Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_HKDMember,"Bank OCBC Nisp Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_HKDMember,Bank OCBC Nisp Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_HKDMember,Bank OCBC Nisp Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_HKDMember,Bank OCBC Nisp Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_GBPMember,"Bank OCBC Nisp Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_GBPMember,Bank OCBC Nisp Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_GBPMember,Bank OCBC Nisp Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_GBPMember,Bank OCBC Nisp Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_JPYMember,"Bank OCBC Nisp Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_JPYMember,Bank OCBC Nisp Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_JPYMember,Bank OCBC Nisp Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_JPYMember,Bank OCBC Nisp Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_SGDMember,"Bank OCBC Nisp Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_SGDMember,Bank OCBC Nisp Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_SGDMember,Bank OCBC Nisp Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_SGDMember,Bank OCBC Nisp Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_THBMember,"Bank OCBC Nisp Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_THBMember,Bank OCBC Nisp Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_THBMember,Bank OCBC Nisp Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_THBMember,Bank OCBC Nisp Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_USDMember,"Bank OCBC Nisp Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_USDMember,Bank OCBC Nisp Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_USDMember,Bank OCBC Nisp Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_USDMember,Bank OCBC Nisp Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankOCBCNISPTbkMember_OtherCurrencyMember,"Bank OCBC Nisp Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankOCBCNISPTbkMember_OtherCurrencyMember,Bank OCBC Nisp Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankOCBCNISPTbkMember_OtherCurrencyMember,Bank OCBC Nisp Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankOCBCNISPTbkMember_OtherCurrencyMember,Bank OCBC Nisp Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_IDRMember,"Bank KB Bukopin Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_IDRMember,Bank KB Bukopin Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_IDRMember,Bank KB Bukopin Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_IDRMember,Bank KB Bukopin Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_AUDMember,"Bank KB Bukopin Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_AUDMember,Bank KB Bukopin Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_AUDMember,Bank KB Bukopin Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_AUDMember,Bank KB Bukopin Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_CADMember,"Bank KB Bukopin Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_CADMember,Bank KB Bukopin Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_CADMember,Bank KB Bukopin Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_CADMember,Bank KB Bukopin Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_CNYMember,"Bank KB Bukopin Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_CNYMember,Bank KB Bukopin Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_CNYMember,Bank KB Bukopin Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_CNYMember,Bank KB Bukopin Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_EURMember,"Bank KB Bukopin Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_EURMember,Bank KB Bukopin Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_EURMember,Bank KB Bukopin Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_EURMember,Bank KB Bukopin Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_HKDMember,"Bank KB Bukopin Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_HKDMember,Bank KB Bukopin Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_HKDMember,Bank KB Bukopin Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_HKDMember,Bank KB Bukopin Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_GBPMember,"Bank KB Bukopin Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_GBPMember,Bank KB Bukopin Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_GBPMember,Bank KB Bukopin Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_GBPMember,Bank KB Bukopin Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_JPYMember,"Bank KB Bukopin Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_JPYMember,Bank KB Bukopin Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_JPYMember,Bank KB Bukopin Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_JPYMember,Bank KB Bukopin Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_SGDMember,"Bank KB Bukopin Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_SGDMember,Bank KB Bukopin Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_SGDMember,Bank KB Bukopin Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_SGDMember,Bank KB Bukopin Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_THBMember,"Bank KB Bukopin Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_THBMember,Bank KB Bukopin Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_THBMember,Bank KB Bukopin Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_THBMember,Bank KB Bukopin Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_USDMember,"Bank KB Bukopin Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_USDMember,Bank KB Bukopin Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_USDMember,Bank KB Bukopin Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_USDMember,Bank KB Bukopin Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankKBBukopinTbkMember_OtherCurrencyMember,"Bank KB Bukopin Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankKBBukopinTbkMember_OtherCurrencyMember,Bank KB Bukopin Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankKBBukopinTbkMember_OtherCurrencyMember,Bank KB Bukopin Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankKBBukopinTbkMember_OtherCurrencyMember,Bank KB Bukopin Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_IDRMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_IDRMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_IDRMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_IDRMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_AUDMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_AUDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_AUDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_AUDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_CADMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_CADMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_CADMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_CADMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_CNYMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_CNYMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_CNYMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_CNYMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_EURMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_EURMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_EURMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_EURMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_HKDMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_HKDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_HKDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_HKDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_GBPMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_GBPMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_GBPMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_GBPMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_JPYMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_JPYMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_JPYMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_JPYMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_SGDMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_SGDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_SGDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_SGDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_THBMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_THBMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_THBMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_THBMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_USDMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_USDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_USDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_USDMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_BankPembangunanDaerahJawaBaratDanBantenTbkMember_OtherCurrencyMember,"Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_OtherCurrencyMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_OtherCurrencyMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_BankPembangunanDaerahJawaBaratDanBantenTbkMember_OtherCurrencyMember,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_IDRMember,"Pinjaman sindikasi - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_IDRMember,Pinjaman sindikasi - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_IDRMember,Pinjaman sindikasi - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_IDRMember,Pinjaman sindikasi - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_AUDMember,"Pinjaman sindikasi - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_AUDMember,Pinjaman sindikasi - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_AUDMember,Pinjaman sindikasi - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_AUDMember,Pinjaman sindikasi - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_CADMember,"Pinjaman sindikasi - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_CADMember,Pinjaman sindikasi - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_CADMember,Pinjaman sindikasi - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_CADMember,Pinjaman sindikasi - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_CNYMember,"Pinjaman sindikasi - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_CNYMember,Pinjaman sindikasi - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_CNYMember,Pinjaman sindikasi - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_CNYMember,Pinjaman sindikasi - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_EURMember,"Pinjaman sindikasi - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_EURMember,Pinjaman sindikasi - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_EURMember,Pinjaman sindikasi - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_EURMember,Pinjaman sindikasi - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_HKDMember,"Pinjaman sindikasi - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_HKDMember,Pinjaman sindikasi - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_HKDMember,Pinjaman sindikasi - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_HKDMember,Pinjaman sindikasi - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_GBPMember,"Pinjaman sindikasi - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_GBPMember,Pinjaman sindikasi - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_GBPMember,Pinjaman sindikasi - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_GBPMember,Pinjaman sindikasi - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_JPYMember,"Pinjaman sindikasi - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_JPYMember,Pinjaman sindikasi - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_JPYMember,Pinjaman sindikasi - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_JPYMember,Pinjaman sindikasi - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_SGDMember,"Pinjaman sindikasi - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_SGDMember,Pinjaman sindikasi - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_SGDMember,Pinjaman sindikasi - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_SGDMember,Pinjaman sindikasi - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_THBMember,"Pinjaman sindikasi - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_THBMember,Pinjaman sindikasi - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_THBMember,Pinjaman sindikasi - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_THBMember,Pinjaman sindikasi - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_USDMember,"Pinjaman sindikasi - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_USDMember,Pinjaman sindikasi - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_USDMember,Pinjaman sindikasi - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_USDMember,Pinjaman sindikasi - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_SyndicatedBankLoansMember_OtherCurrencyMember,"Pinjaman sindikasi - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_SyndicatedBankLoansMember_OtherCurrencyMember,Pinjaman sindikasi - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_SyndicatedBankLoansMember_OtherCurrencyMember,Pinjaman sindikasi - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_SyndicatedBankLoansMember_OtherCurrencyMember,Pinjaman sindikasi - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_IDRMember,"Bank asing lainnya - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_IDRMember,Bank asing lainnya - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_IDRMember,Bank asing lainnya - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_IDRMember,Bank asing lainnya - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_AUDMember,"Bank asing lainnya - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_AUDMember,Bank asing lainnya - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_AUDMember,Bank asing lainnya - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_AUDMember,Bank asing lainnya - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_CADMember,"Bank asing lainnya - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_CADMember,Bank asing lainnya - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_CADMember,Bank asing lainnya - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_CADMember,Bank asing lainnya - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_CNYMember,"Bank asing lainnya - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_CNYMember,Bank asing lainnya - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_CNYMember,Bank asing lainnya - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_CNYMember,Bank asing lainnya - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_EURMember,"Bank asing lainnya - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_EURMember,Bank asing lainnya - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_EURMember,Bank asing lainnya - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_EURMember,Bank asing lainnya - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_HKDMember,"Bank asing lainnya - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_HKDMember,Bank asing lainnya - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_HKDMember,Bank asing lainnya - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_HKDMember,Bank asing lainnya - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_GBPMember,"Bank asing lainnya - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_GBPMember,Bank asing lainnya - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_GBPMember,Bank asing lainnya - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_GBPMember,Bank asing lainnya - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_JPYMember,"Bank asing lainnya - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_JPYMember,Bank asing lainnya - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_JPYMember,Bank asing lainnya - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_JPYMember,Bank asing lainnya - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_SGDMember,"Bank asing lainnya - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_SGDMember,Bank asing lainnya - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_SGDMember,Bank asing lainnya - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_SGDMember,Bank asing lainnya - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_THBMember,"Bank asing lainnya - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_THBMember,Bank asing lainnya - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_THBMember,Bank asing lainnya - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_THBMember,Bank asing lainnya - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_USDMember,"Bank asing lainnya - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_USDMember,Bank asing lainnya - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_USDMember,Bank asing lainnya - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_USDMember,Bank asing lainnya - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherForeignBanksMember_OtherCurrencyMember,"Bank asing lainnya - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherForeignBanksMember_OtherCurrencyMember,Bank asing lainnya - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherForeignBanksMember_OtherCurrencyMember,Bank asing lainnya - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherForeignBanksMember_OtherCurrencyMember,Bank asing lainnya - Mata uang lainnya - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_IDRMember,"Bank lokal lainnya - IDR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_IDRMember,Bank lokal lainnya - IDR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_IDRMember,Bank lokal lainnya - IDR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_IDRMember,Bank lokal lainnya - IDR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_AUDMember,"Bank lokal lainnya - AUD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_AUDMember,Bank lokal lainnya - AUD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_AUDMember,Bank lokal lainnya - AUD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_AUDMember,Bank lokal lainnya - AUD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_CADMember,"Bank lokal lainnya - CAD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_CADMember,Bank lokal lainnya - CAD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_CADMember,Bank lokal lainnya - CAD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_CADMember,Bank lokal lainnya - CAD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_CNYMember,"Bank lokal lainnya - CNY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_CNYMember,Bank lokal lainnya - CNY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_CNYMember,Bank lokal lainnya - CNY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_CNYMember,Bank lokal lainnya - CNY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_EURMember,"Bank lokal lainnya - EUR - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_EURMember,Bank lokal lainnya - EUR - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_EURMember,Bank lokal lainnya - EUR - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_EURMember,Bank lokal lainnya - EUR - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_HKDMember,"Bank lokal lainnya - HKD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_HKDMember,Bank lokal lainnya - HKD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_HKDMember,Bank lokal lainnya - HKD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_HKDMember,Bank lokal lainnya - HKD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_GBPMember,"Bank lokal lainnya - GBP - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_GBPMember,Bank lokal lainnya - GBP - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_GBPMember,Bank lokal lainnya - GBP - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_GBPMember,Bank lokal lainnya - GBP - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_JPYMember,"Bank lokal lainnya - JPY - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_JPYMember,Bank lokal lainnya - JPY - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_JPYMember,Bank lokal lainnya - JPY - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_JPYMember,Bank lokal lainnya - JPY - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_SGDMember,"Bank lokal lainnya - SGD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_SGDMember,Bank lokal lainnya - SGD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_SGDMember,Bank lokal lainnya - SGD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_SGDMember,Bank lokal lainnya - SGD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_THBMember,"Bank lokal lainnya - THB - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_THBMember,Bank lokal lainnya - THB - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_THBMember,Bank lokal lainnya - THB - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_THBMember,Bank lokal lainnya - THB - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_USDMember,"Bank lokal lainnya - USD - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_USDMember,Bank lokal lainnya - USD - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_USDMember,Bank lokal lainnya - USD - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_USDMember,Bank lokal lainnya - USD - Jenis bunga utang bank jangka panjang
+ShortTermBankLoanAmountInForeignCurrency_OtherLocalBanksMember_OtherCurrencyMember,"Bank lokal lainnya - Mata uang lainnya - Utang bank, nilai dalam mata uang asing"
+DueDateForShortTermBankLoan_OtherLocalBanksMember_OtherCurrencyMember,Bank lokal lainnya - Mata uang lainnya - Jatuh tempo utang bank jangka panjang
+InterestRateForShortTermBankLoan_OtherLocalBanksMember_OtherCurrencyMember,Bank lokal lainnya - Mata uang lainnya - Bunga utang bank jangka panjang
+InterestRateTypeForShortTermBankLoan_OtherLocalBanksMember_OtherCurrencyMember,Bank lokal lainnya - Mata uang lainnya - Jenis bunga utang bank jangka panjang

@@ -1,0 +1,19 @@
+xbrl_name,formatted_name
+CurrentAccountsInterestRate,Tingkat bunga giro
+CurrentAccountsInterestRate_RupiahMember,Tingkat bunga giro - Rupiah
+CurrentAccountsInterestRate_ForeignCurrenciesMember,Tingkat bunga giro - Mata uang asing
+WadiahDemandDepositsReturn,Imbal hasil giro wadiah
+WadiahDemandDepositsReturn_RupiahMember,Imbal hasil giro wadiah - Rupiah
+WadiahDemandDepositsReturn_ForeignCurrenciesMember,Imbal hasil giro wadiah - Mata uang asing
+SavingsDepositsInterestRate,Tingkat bunga tabungan
+SavingsDepositsInterestRate_RupiahMember,Tingkat bunga tabungan - Rupiah
+SavingsDepositsInterestRate_ForeignCurrenciesMember,Tingkat bunga tabungan - Mata uang asing
+WadiahSavingsDepositsReturn,Imbal hasil tabungan wadiah
+WadiahSavingsDepositsReturn_RupiahMember,Imbal hasil tabungan wadiah - Rupiah
+WadiahSavingsDepositsReturn_ForeignCurrenciesMember,Imbal hasil tabungan wadiah - Mata uang asing
+TimeDepositsInterestRate,Tingkat bunga deposito berjangka
+TimeDepositsInterestRate_RupiahMember,Tingkat bunga deposito berjangka - Rupiah
+TimeDepositsInterestRate_ForeignCurrenciesMember,Tingkat bunga deposito berjangka - Mata uang asing
+WakalahDepositsReturn,Imbal hasil deposito wakalah
+WakalahDepositsReturn_RupiahMember,Imbal hasil deposito wakalah - Rupiah
+WakalahDepositsReturn_ForeignCurrenciesMember,Imbal hasil deposito wakalah - Mata uang asing

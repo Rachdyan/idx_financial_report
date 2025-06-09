@@ -1,0 +1,14 @@
+xbrl_name,formatted_name
+AnnualYieldRateofRupiahLoans,Tingkat suku bunga rata-rata per tahun rupiah
+AnnualYieldRateofForeignCurrenciesLoans,Tingkat suku bunga rata-rata per tahun mata uang asing
+IndicativeProfitSharingofMurabahahAndIstishnaReceivables,Kisaran bagi hasil per tahun piutang murabahan dan istishna
+IndicativeProfitSharingofMusyarakahFinancing,Kisaran bagi hasil per tahun pembiayaan musyarakah
+IndicativeProfitSharingofOtherShariaFinancing,Kisaran bagi hasil per tahun pembiayaan syariah lainnya
+ProvisionDuringTheYearofAllowanceforImpairmentLossesonLoans,Pembentukan selama tahun berjalan
+WritingOffofAllowanceforImpairmentLossesonLoans,Penghapusbukuan
+RecoveriesOfWrittenOffofAllowanceforImpairmentLossesonLoans,Pemulihan pinjaman yang telah dihapusbukukan
+OthersAllowanceforImpairmentLossesonLoans,Cadangan lain-lain
+ForeignExchangeTranslationImpactOnAllowanceForImpairmentLossesOnLoans,Dampak selisih akibat perbedaan kurs terhadap cadangan kerugian penurunan nilai pinjaman diberikan
+AllowanceForImpairmentLossesForLoans,"Cadangan kerugian penurunan nilai, akhir periode"
+NonPerformingFinancingGross,Non-performing financing - gross
+NonPerformingFinancingNet,Non-performing financing - net

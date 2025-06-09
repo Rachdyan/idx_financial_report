@@ -1,0 +1,48 @@
+xbrl_name,formatted_name
+ServiceOrProductName_DomesticRevenue1Member,Pendapatan dari domestik 1 - Nama
+SalesAndRevenue_DomesticRevenue1Member,Pendapatan dari domestik 1 - Jumlah
+ServiceOrProductName_DomesticRevenue2Member,Pendapatan dari domestik 2 - Nama
+SalesAndRevenue_DomesticRevenue2Member,Pendapatan dari domestik 2 - Jumlah
+ServiceOrProductName_DomesticRevenue3Member,Pendapatan dari domestik 3 - Nama
+SalesAndRevenue_DomesticRevenue3Member,Pendapatan dari domestik 3 - Jumlah
+ServiceOrProductName_DomesticRevenue4Member,Pendapatan dari domestik 4 - Nama
+SalesAndRevenue_DomesticRevenue4Member,Pendapatan dari domestik 4 - Jumlah
+ServiceOrProductName_DomesticRevenue5Member,Pendapatan dari domestik 5 - Nama
+SalesAndRevenue_DomesticRevenue5Member,Pendapatan dari domestik 5 - Jumlah
+ServiceOrProductName_DomesticRevenue6Member,Pendapatan dari domestik 6 - Nama
+SalesAndRevenue_DomesticRevenue6Member,Pendapatan dari domestik 6 - Jumlah
+ServiceOrProductName_DomesticRevenue7Member,Pendapatan dari domestik 7 - Nama
+SalesAndRevenue_DomesticRevenue7Member,Pendapatan dari domestik 7 - Jumlah
+ServiceOrProductName_DomesticRevenue8Member,Pendapatan dari domestik 8 - Nama
+SalesAndRevenue_DomesticRevenue8Member,Pendapatan dari domestik 8 - Jumlah
+ServiceOrProductName_DomesticRevenue9Member,Pendapatan dari domestik 9 - Nama
+SalesAndRevenue_DomesticRevenue9Member,Pendapatan dari domestik 9 - Jumlah
+ServiceOrProductName_DomesticRevenue10Member,Pendapatan dari domestik 10 - Nama
+SalesAndRevenue_DomesticRevenue10Member,Pendapatan dari domestik 10 - Jumlah
+ServiceOrProductName_OtherDomesticRevenueMember,Pendapatan dari domestik lainnya - Nama
+SalesAndRevenue_OtherDomesticRevenueMember,Pendapatan dari domestik lainnya - Jumlah
+SalesAndRevenue_DomesticRevenueMember,Pendapatan dari domestik
+ServiceOrProductName_ExportRevenue1Member,Pendapatan dari ekspor 1 - Nama
+SalesAndRevenue_ExportRevenue1Member,Pendapatan dari ekspor 1 - Jumlah
+ServiceOrProductName_ExportRevenue2Member,Pendapatan dari ekspor 2 - Nama
+SalesAndRevenue_ExportRevenue2Member,Pendapatan dari ekspor 2 - Jumlah
+ServiceOrProductName_ExportRevenue3Member,Pendapatan dari ekspor 3 - Nama
+SalesAndRevenue_ExportRevenue3Member,Pendapatan dari ekspor 3 - Jumlah
+ServiceOrProductName_ExportRevenue4Member,Pendapatan dari ekspor 4 - Nama
+SalesAndRevenue_ExportRevenue4Member,Pendapatan dari ekspor 4 - Jumlah
+ServiceOrProductName_ExportRevenue5Member,Pendapatan dari ekspor 5 - Nama
+SalesAndRevenue_ExportRevenue5Member,Pendapatan dari ekspor 5 - Jumlah
+ServiceOrProductName_ExportRevenue6Member,Pendapatan dari ekspor 6 - Nama
+SalesAndRevenue_ExportRevenue6Member,Pendapatan dari ekspor 6 - Jumlah
+ServiceOrProductName_ExportRevenue7Member,Pendapatan dari ekspor 7 - Nama
+SalesAndRevenue_ExportRevenue7Member,Pendapatan dari ekspor 7 - Jumlah
+ServiceOrProductName_ExportRevenue8Member,Pendapatan dari ekspor 8 - Nama
+SalesAndRevenue_ExportRevenue8Member,Pendapatan dari ekspor 8 - Jumlah
+ServiceOrProductName_ExportRevenue9Member,Pendapatan dari ekspor 9 - Nama
+SalesAndRevenue_ExportRevenue9Member,Pendapatan dari ekspor 9 - Jumlah
+ServiceOrProductName_ExportRevenue10Member,Pendapatan dari ekspor 10 - Nama
+SalesAndRevenue_ExportRevenue10Member,Pendapatan dari ekspor 10 - Jumlah
+ServiceOrProductName_OtherExportRevenueMember,Pendapatan dari ekspor lainnya - Nama
+SalesAndRevenue_OtherExportRevenueMember,Pendapatan dari ekspor lainnya - Jumlah
+SalesAndRevenue_ExportRevenueMember,Pendapatan dari ekspor
+SalesAndRevenue_CurrentYearDuration,Sumber pendapatan

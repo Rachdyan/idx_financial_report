@@ -1,0 +1,116 @@
+﻿xbrl_name,formatted_name
+InterestInvestmentIncomeFeesAndCommissionsReceived,"Penerimaan bunga, hasil investasi, provisi, dan komisi"
+PaymentsOfInterestAndBonusFeesAndCommissions,"Pembayaran bunga dan bonus, provisi dan komisi"
+InterestFromBanksAndTimeDeposits,Bunga bank dan deposito berjangka
+RevenueReceiptsFromFundManagementAsMudharib,Penerimaan pendapatan pengelolaan dana sebagai mudharib
+PaymentsOfTemporarySyirkahFunds,Pembayaran bagi hasil dana syirkah temporer
+ReceiptsFromInsurancePremiums,Penerimaan premi asuransi
+ReceiptsFromReinsuranceClaims,Penerimaan klaim reasuransi
+ReceiptsPaymentsOfCommission,Penerimaan (pembayaran) komisi
+ReceiptsFromRetrocessionClaims,Penerimaan klaim retrosesi
+ReceipsOfUjrah,Penerimaan dari ujrah
+ReceiptsFromPaymentsToClearingAndGuaranteeInstitution,Penerimaan dari (pembayaran kepada) lembaga kliring dan penjaminan
+ReceiptsFromPaymentsToCustomers,Penerimaan dari (pembayaran kepada) nasabah
+WithdrawalPlacementOfDepositsToClearingAndGuaranteeInstitution,Pencairan (penempatan) deposito pada lembaga kliring dan penjaminan
+IncomeFromOtherOperatingTransactions,Pendapatan dari transaksi operasional lainnya
+RecoveriesOfWrittenOffAssets,Penerimaan kembali aset yang telah dihapusbukukan
+PaymentsForDeferredAcquisitionCosts,Pembayaran biaya akuisisi ditangguhkan
+PaymentsOfFinanceCostsAndBankAdministrationCharges,Pembayaran atas beban keuangan dan beban administrasi bank
+PaymentsForSalariesAndAllowances,Pembayaran gaji dan tunjangan
+PaymentsForCorporateIncomeTax,Pembayaran pajak penghasilan badan
+PaymentsForGeneralAndAdministrativeExpense,Pembayaran beban umum dan administrasi
+ForeignCurrencyGainsLosses,Laba (rugi) selisih kurs
+RefundsPaymentsOfIncomeTax,Penerimaan pengembalian (pembayaran) pajak penghasilan
+PaymentsForOtherOperatingExpenses,Pembayaran beban operasional lainnya
+ReceiptsFromNonOperatingIncome,Penerimaan pendapatan non-operasional
+RepaymentPlacementOfRefundableDeposits,Pengembalian (penempatan) uang jaminan
+OtherCashInflowsOutflowsFromOperatingActivities,Penerimaan (pengeluaran) kas lainnya dari aktivitas operasi
+DecreaseIncreaseInPlacementsWithOtherBanksAndBankIndonesia,Penurunan (kenaikan) penempatan pada bank lain dan Bank Indonesia
+DecreaseIncreaseInMarketableSecurities,Penurunan (kenaikan) efek yang diperdagangkan
+DecreaseIncreaseInSecuritiesPurchasedUnderResaleAgreements,Penurunan (kenaikan) efek yang dibeli dengan janji dijual kembali
+DecreaseIncreaseInInvestmentOfPolicyholderInUnitLinkedContracts,Penurunan (kenaikan) investasi pemegang polis pada kontrak unit-linked
+DecreaseIncreaseInBillsAndOtherReceivables,Penurunan (kenaikan) wesel ekspor dan tagihan lainnya
+DecreaseIncreaseInAcceptanceReceivables,Penurunan (kenaikan) tagihan akseptasi
+DecreaseIncreaseInLoans,Penurunan (kenaikan) pinjaman yang diberikan
+DecreaseIncreaseInConsumerFinancingReceivables,Penurunan (kenaikan) piutang pembiayaan konsumen
+DecreaseIncreaseInLeaseInvestments,Penurunan (kenaikan) investasi sewa
+DecreaseIncreaseInFactoring,Penurunan (kenaikan) tagihan anjak piutang
+DecreaseIncreaseInMurabahahReceivables,Penurunan (kenaikan) piutang murabahah
+DecreaseIncreaseInIstishnaReceivables,Penurunan (kenaikan) piutang istishna
+DecreaseIncreaseInIjarahReceivables,Penurunan (kenaikan) piutang ijarah
+DecreaseIncreaseInQardhFunds,Penurunan (kenaikan) pinjaman qardh
+DecreaseIncreaseInMudharabahFinancing,Penurunan (kenaikan) pembiayaan mudharabah
+DecreaseIncreaseInMusyarakahFinancing,Penurunan (kenaikan) pembiayaan musyarakah
+DecreaseIncreaseInIjarahAssets,Penurunan (kenaikan) aset ijarah
+DecreaseIncreaseInOtherReceivables,Penurunan (kenaikan) piutang lainnya
+DecreaseIncreaseInForeclosedAssets,Penurunan (kenaikan) agunan yang diambil alih
+DecreaseIncreaseInDerivativeReceivables,Penurunan (kenaikan) tagihan derivatif
+DecreaseIncreaseInReinsuranceAssets,Penurunan (kenaikan) aset reasuransi
+DecreaseIncreaseInOtherAssets,Penurunan (kenaikan) aset lainnya
+IncreaseDecreaseInObligationsDueImmediately,Kenaikan (penurunan) liabilitas segera
+IncreaseDecreaseInCustomersCurrentAccountsAndSavings,Kenaikan (penurunan) giro dan tabungan simpanan nasabah
+IncreaseDecreaseInCustomersTimeDeposits,Kenaikan (penurunan) deposito berjangka nasabah
+IncreaseDecreaseInCustomersWadiahDemandDeposits,Kenaikan (penurunan) giro wadiah simpanan nasabah
+IncreaseDecreaseInCustomersWadiahSavingDeposits,Kenaikan (penurunan) tabungan wadiah simpanan nasabah
+IncreaseDecreaseInCustomersWakalahDeposits,Kenaikan (penurunan) deposito wakalah simpanan nasabah
+IncreaseDecreaseInOtherBanksSavingDeposits,Kenaikan (penurunan) simpanan dari bank lain
+IncreaseDecreaseInMudharabahCurrentAccount,Kenaikan (penurunan) giro mudharabah
+IncreaseDecreaseInMudharabahSavingsDeposits,Kenaikan (penurunan) tabungan mudharabah
+IncreaseDecreaseInSecuritiesSoldUnderRepurchaseAgreement,Kenaikan (penurunan) efek yang dijual dengan janji dibeli kembali
+IncreaseDecreaseInAcceptancePayables,Kenaikan (penurunan) liabilitas akseptasi
+IncreaseDecreaseInLiabilitiesToPolicyholderOnUnitLinkedContracts,Kenaikan (penurunan) liabilitas pemegang polis pada kontrak unit-linked
+IncreaseDecreaseInDerivativePayables,Kenaikan (penurunan) liabilitas derivatif
+IncreaseDecreaseInTemporarySyirkahFunds,Kenaikan (penurunan) dana syirkah temporer
+IncreaseDecreaseInOtherLiabilities,Kenaikan (penurunan) liabilitas lainnya
+NetCashFlowsReceivedFromUsedInOperatingActivities,Jumlah arus kas bersih yang diperoleh dari (digunakan untuk) aktivitas operasi
+ProceedsFromEquityInvestmentsClassifiedAsAmortizedCostAndFairValueThroughOtherComprehensiveIncome,Penerimaan dari penyertaan saham dalam klasifikasi biaya perolehan diamortisasi dan nilai wajar melalui pendapatan komprehensif lainnya
+WithdrawalPlacementOfBondsAndOrSukuk,Pencairan (penempatan) obligasi dan (atau) sukuk
+DividendsReceivedFromInvestingActivities,Penerimaan dividen dari aktivitas investasi
+ProceedsFromDisposalAcquisitionOfInvestmentProperties,Penerimaan dari penjualan (perolehan) properti investasi
+ProceedsFromDisposalAcquisitionOfPropertyAndEquipment,Penerimaan dari penjualan (perolehan) aset tetap
+ProceedsFromDisposalAcquisitionOfIntangibleAssetsOtherThanGoodwill,Penerimaan dari penjualan (perolehan) aset takberwujud selain goodwill
+WithdrawalPlacementOfFinancialAssetsFairValueThroughOtherComprehensiveIncome,Pencairan (penempatan) aset keuangan nilai wajar melalui pendapatan komprehensif lainnya
+PlacementOfFinancialAssetsAmortizedCostInvestments,Penempatan aset keuangan biaya perolehan diamortisasi
+WithdrawalOfFinancialAssetsAmortizedCostInvestments,Pencairan aset keuangan biaya perolehan diamortisasi
+ReceiptsFromPaymentsForPolicyLoans,Penerimaan dari (pembayaran kepada) pinjaman polis
+PaymentsForAcquisitionOfSubsidiaries,Pembayaran untuk perolehan entitas anak
+ProceedsFromSalesOfSubsidiaries,Penerimaan dari pelepasan entitas anak
+PaymentsForAcquisitionOfAdditionalInterestsInSubsidiaries,Pembayaran untuk perolehan tambahan kepemilikan pada entitas anak
+WithdrawalPlacementOfMarketableSecurities,Pencairan (penempatan) efek-efek yang diperdagangkan
+ProceedsFromSalesOfInterestsInSubsidiariesWithoutLossOfControlFromInvestingActivities,Penerimaan dari pelepasan kepentingan di entitas anak tanpa hilangnya pengendalian dari kegiatan investasi
+PaymentsForAcquisitionOfInterestsInAssociates,Pembayaran untuk perolehan kepemilikan pada entitas asosiasi
+ProceedsFromSalesOfInterestsInAssociates,Penerimaan dari pelepasan kepemilikan pada entitas asosiasi
+OtherCashInflowsOutflowsFromInvestingActivities,Penerimaan (pengeluaran) kas lainnya dari aktivitas investasi
+NetCashFlowsReceivedFromUsedInInvestingActivities,Jumlah arus kas bersih yang diperoleh dari (digunakan untuk) aktivitas investasi
+IncreaseDecreaseInSecuritiesIssued,Kenaikan (penurunan) efek yang diterbitkan
+IssuanceOfMudharabahSukuk,Penerbitan sukuk mudharabah
+PlacementOfCertificateOfMudharabahInvestments,Penempatan sertifikat investasi mudharabah
+IssuanceCostOfMudharabahSukuk,Biaya emisi sukuk mudharabah
+ProceedsFromBorrowings,Penerimaan pinjaman yang diterima
+PaymentsForBorrowings,Pembayaran pinjaman yang diterima
+ProceedsFromSubordinatedLoans,Penerimaan pinjaman subordinasi
+PaymentsOfSubordinatedLoans,Pembayaran pinjaman subordinasi
+PaymentsOfInterestsFromBorrowings,Pembayaran bunga pinjaman
+ProceedsFromBondsIssuance,Penerimaan dari penerbitan obligasi
+PaymentsOfBondsPayable,Pembayaran utang obligasi
+PaymentsOfBondsIssuanceCosts,Pembayaran biaya emisi penerbitan obligasi
+SubordinatedBondsIssued,Obligasi subordinasi yang diterbitkan
+PaymentsOfSubordinatedBonds,Pembayaran obligasi subordinasi
+SubordinatedBondsIssuanceCosts,Biaya emisi obligasi subordinasi yang diterbitkan
+ProceedsFromMediumTermNotes,Penerimaan dari surat utang jangka menengah
+PaymentsOfMediumTermNotes,Pembayaran dari surat utang jangka menengah
+ProceedsFromIssuanceOfNewStocks,Penerimaan dari penerbitan saham baru
+PaymentsOfStockIssuanceCosts,Pembayaran biaya emisi saham
+ProceedsFromCapitalContributions,Penerimaan setoran modal
+ProceedFromIncreaseOfNonControllingInterest,Penerimaan dari penambahan kepemilikan dari non-pengendali
+SalesPurchaseOfTreasuryStocks,Penjualan (pembelian) dari saham tresuri
+ProceedsFromEmployeeStockOptionsProgram,Penerimaan dari program opsi saham karyawan
+SettlementPlacementOfDerivativeTransactions,Penyelesaian (penempatan) transaksi derivatif
+DividendsPaidFromFinancingActivities,Pembayaran dividen dari aktivitas pendanaan
+OtherCashInflowsOutflowsFromFinancingActivities,Penerimaan (pengeluaran) kas lainnya dari aktivitas pendanaan
+NetCashFlowsReceivedFromUsedInFinancingActivities,Jumlah arus kas bersih yang diperoleh dari (digunakan untuk) aktivitas pendanaan
+NetIncreaseDecreaseInCashAndCashEquivalents,Jumlah kenaikan (penurunan) bersih kas dan setara kas
+EffectOfExchangeRateChangesOnCashAndCashEquivalents,Efek perubahan nilai kurs pada kas dan setara kas
+CashAndCashEquivalentOfDeconsolidatedSubsidiaries,Kas dan setara kas dari entitas anak yang didekonsolidasikan
+OtherIncreaseDecreaseInCashAndCashEquivalents,Kenaikan (penurunan) kas dan setara kas lainnya
+CashAndCashEquivalentsCashFlows,"Kas dan setara kas arus kas, akhir periode"

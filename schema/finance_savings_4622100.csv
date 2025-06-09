@@ -1,0 +1,15 @@
+xbrl_name,formatted_name
+SavingsDeposits,Tabungan - Total
+SavingsDeposits_RelatedPartiesMember,Tabungan - Pihak Berelasi - Total
+SavingsDeposits_RupiahMember_RelatedPartiesMember,Tabungan - Pihak Berelasi - Rupiah
+SavingsDeposits_ForeignCurrenciesMember_RelatedPartiesMember,Tabungan - Pihak Berelasi - Mata uang asing
+SavingsDeposits_ThirdPartiesMember,Tabungan - Pihak Ketiga - Total
+SavingsDeposits_RupiahMember_ThirdPartiesMember,Tabungan - Pihak Ketiga - Rupiah
+SavingsDeposits_ForeignCurrenciesMember_ThirdPartiesMember,Tabungan - Pihak Ketiga - Mata uang asing
+WadiahSavingsDeposits,Tabungan wadiah - Total
+WadiahSavingsDeposits_RelatedPartiesMember,Tabungan wadiah - Pihak Berelasi - Total
+WadiahSavingsDeposits_RupiahMember_RelatedPartiesMember,Tabungan wadiah - Pihak Berelasi - Rupiah
+WadiahSavingsDeposits_ForeignCurrenciesMember_RelatedPartiesMember,Tabungan wadiah - Pihak Berelasi - Mata uang asing
+WadiahSavingsDeposits_ThirdPartiesMember,Tabungan wadiah - Pihak Ketiga - Total
+WadiahSavingsDeposits_RupiahMember_ThirdPartiesMember,Tabungan wadiah - Pihak Ketiga - Rupiah
+WadiahSavingsDeposits_ForeignCurrenciesMember_ThirdPartiesMember,Tabungan wadiah - Pihak Ketiga - Mata uang asing

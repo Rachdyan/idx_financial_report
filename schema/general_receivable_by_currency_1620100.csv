@@ -1,0 +1,31 @@
+xbrl_name,formatted_name
+TradeReceivablesGross_IDRMember_ThirdPartyMember,Pihak ketiga - IDR
+TradeReceivablesGross_AUDMember_ThirdPartyMember,Pihak ketiga - AUD
+TradeReceivablesGross_CADMember_ThirdPartyMember,Pihak ketiga - CAD
+TradeReceivablesGross_CNYMember_ThirdPartyMember,Pihak ketiga - CNY
+TradeReceivablesGross_EURMember_ThirdPartyMember,Pihak ketiga - EUR
+TradeReceivablesGross_HKDMember_ThirdPartyMember,Pihak ketiga - HKD
+TradeReceivablesGross_GBPMember_ThirdPartyMember,Pihak ketiga - GBP
+TradeReceivablesGross_JPYMember_ThirdPartyMember,Pihak ketiga - JPY
+TradeReceivablesGross_SGDMember_ThirdPartyMember,Pihak ketiga - SGD
+TradeReceivablesGross_THBMember_ThirdPartyMember,Pihak ketiga - THB
+TradeReceivablesGross_USDMember_ThirdPartyMember,Pihak ketiga - USD
+TradeReceivablesGross_OtherCurrencyMember_ThirdPartyMember,Pihak ketiga - Mata Uang Lainnya
+TradeReceivablesGross_ThirdPartyMember,Pihak ketiga - Kotor
+AllowanceForImpairmentOfTradeReceivables_ThirdPartyMember,Pihak ketiga - Penyisihan penurunan nilai piutang usaha
+TradeReceivablesNet_ThirdPartyMember,Pihak ketiga
+TradeReceivablesGross_IDRMember_RelatedPartyMember,Pihak berelasi - IDR
+TradeReceivablesGross_AUDMember_RelatedPartyMember,Pihak berelasi - AUD
+TradeReceivablesGross_CADMember_RelatedPartyMember,Pihak berelasi - CAD
+TradeReceivablesGross_CNYMember_RelatedPartyMember,Pihak berelasi - CNY
+TradeReceivablesGross_EURMember_RelatedPartyMember,Pihak berelasi - EUR
+TradeReceivablesGross_HKDMember_RelatedPartyMember,Pihak berelasi - HKD
+TradeReceivablesGross_GBPMember_RelatedPartyMember,Pihak berelasi - GBP
+TradeReceivablesGross_JPYMember_RelatedPartyMember,Pihak berelasi - JPY
+TradeReceivablesGross_SGDMember_RelatedPartyMember,Pihak berelasi - SGD
+TradeReceivablesGross_THBMember_RelatedPartyMember,Pihak berelasi - THB
+TradeReceivablesGross_USDMember_RelatedPartyMember,Pihak berelasi - USD
+TradeReceivablesGross_OtherCurrencyMember_RelatedPartyMember,Pihak berelasi - Mata Uang Lainnya
+TradeReceivablesGross_RelatedPartyMember,Pihak berelasi - Kotor
+AllowanceForImpairmentOfTradeReceivables_RelatedPartyMember,Pihak berelasi - Penyisihan penurunan nilai piutang usaha
+TradeReceivablesNet_RelatedPartyMember,Pihak berelasi

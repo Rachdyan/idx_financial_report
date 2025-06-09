@@ -1,0 +1,15 @@
+xbrl_name,formatted_name
+TimeDeposits,Deposito berjangka - Total
+TimeDeposits_RelatedPartiesMember,Deposito berjangka - Pihak Berelasi - Total
+TimeDeposits_RupiahMember_RelatedPartiesMember,Deposito berjangka - Pihak Berelasi - Rupiah
+TimeDeposits_ForeignCurrenciesMember_RelatedPartiesMember,Deposito berjangka - Pihak Berelasi - Mata uang asing
+TimeDeposits_ThirdPartiesMember,Deposito berjangka - Pihak Ketiga - Total
+TimeDeposits_RupiahMember_ThirdPartiesMember,Deposito berjangka - Pihak Ketiga - Rupiah
+TimeDeposits_ForeignCurrenciesMember_ThirdPartiesMember,Deposito berjangka - Pihak Ketiga - Mata uang asing
+WakalahDeposits,Deposito wakalah - Total
+WakalahDeposits_RelatedPartiesMember,Deposito wakalah - Pihak Berelasi - Total
+WakalahDeposits_RupiahMember_RelatedPartiesMember,Deposito wakalah - Pihak Berelasi - Rupiah
+WakalahDeposits_ForeignCurrenciesMember_RelatedPartiesMember,Deposito wakalah - Pihak Berelasi - Mata uang asing
+WakalahDeposits_ThirdPartiesMember,Deposito wakalah - Pihak Ketiga - Total
+WakalahDeposits_RupiahMember_ThirdPartiesMember,Deposito wakalah - Pihak Ketiga - Rupiah
+WakalahDeposits_ForeignCurrenciesMember_ThirdPartiesMember,Deposito wakalah - Pihak Ketiga - Mata uang asing

@@ -1,0 +1,48 @@
+xbrl_name,formatted_name
+ServiceOrProductName_ServiceRevenue1Member,Pendapatan dari jasa 1 - Nama
+SalesAndRevenue_ServiceRevenue1Member,Pendapatan dari jasa 1 - Jumlah
+ServiceOrProductName_ServiceRevenue2Member,Pendapatan dari jasa 2 - Nama
+SalesAndRevenue_ServiceRevenue2Member,Pendapatan dari jasa 2 - Jumlah
+ServiceOrProductName_ServiceRevenue3Member,Pendapatan dari jasa 3 - Nama
+SalesAndRevenue_ServiceRevenue3Member,Pendapatan dari jasa 3 - Jumlah
+ServiceOrProductName_ServiceRevenue4Member,Pendapatan dari jasa 4 - Nama
+SalesAndRevenue_ServiceRevenue4Member,Pendapatan dari jasa 4 - Jumlah
+ServiceOrProductName_ServiceRevenue5Member,Pendapatan dari jasa 5 - Nama
+SalesAndRevenue_ServiceRevenue5Member,Pendapatan dari jasa 5 - Jumlah
+ServiceOrProductName_ServiceRevenue6Member,Pendapatan dari jasa 6 - Nama
+SalesAndRevenue_ServiceRevenue6Member,Pendapatan dari jasa 6 - Jumlah
+ServiceOrProductName_ServiceRevenue7Member,Pendapatan dari jasa 7 - Nama
+SalesAndRevenue_ServiceRevenue7Member,Pendapatan dari jasa 7 - Jumlah
+ServiceOrProductName_ServiceRevenue8Member,Pendapatan dari jasa 8 - Nama
+SalesAndRevenue_ServiceRevenue8Member,Pendapatan dari jasa 8 - Jumlah
+ServiceOrProductName_ServiceRevenue9Member,Pendapatan dari jasa 9 - Nama
+SalesAndRevenue_ServiceRevenue9Member,Pendapatan dari jasa 9 - Jumlah
+ServiceOrProductName_ServiceRevenue10Member,Pendapatan dari jasa 10 - Nama
+SalesAndRevenue_ServiceRevenue10Member,Pendapatan dari jasa 10 - Jumlah
+ServiceOrProductName_OtherServiceRevenueMember,Pendapatan dari jasa lainnya - Nama
+SalesAndRevenue_OtherServiceRevenueMember,Pendapatan dari jasa lainnya - Jumlah
+SalesAndRevenue_ServiceRevenueMember,Pendapatan dari jasa
+ServiceOrProductName_ProductRevenue1Member,Pendapatan dari produk 1 - Nama
+SalesAndRevenue_ProductRevenue1Member,Pendapatan dari produk 1 - Jumlah
+ServiceOrProductName_ProductRevenue2Member,Pendapatan dari produk 2 - Nama
+SalesAndRevenue_ProductRevenue2Member,Pendapatan dari produk 2 - Jumlah
+ServiceOrProductName_ProductRevenue3Member,Pendapatan dari produk 3 - Nama
+SalesAndRevenue_ProductRevenue3Member,Pendapatan dari produk 3 - Jumlah
+ServiceOrProductName_ProductRevenue4Member,Pendapatan dari produk 4 - Nama
+SalesAndRevenue_ProductRevenue4Member,Pendapatan dari produk 4 - Jumlah
+ServiceOrProductName_ProductRevenue5Member,Pendapatan dari produk 5 - Nama
+SalesAndRevenue_ProductRevenue5Member,Pendapatan dari produk 5 - Jumlah
+ServiceOrProductName_ProductRevenue6Member,Pendapatan dari produk 6 - Nama
+SalesAndRevenue_ProductRevenue6Member,Pendapatan dari produk 6 - Jumlah
+ServiceOrProductName_ProductRevenue7Member,Pendapatan dari produk 7 - Nama
+SalesAndRevenue_ProductRevenue7Member,Pendapatan dari produk 7 - Jumlah
+ServiceOrProductName_ProductRevenue8Member,Pendapatan dari produk 8 - Nama
+SalesAndRevenue_ProductRevenue8Member,Pendapatan dari produk 8 - Jumlah
+ServiceOrProductName_ProductRevenue9Member,Pendapatan dari produk 9 - Nama
+SalesAndRevenue_ProductRevenue9Member,Pendapatan dari produk 9 - Jumlah
+ServiceOrProductName_ProductRevenue10Member,Pendapatan dari produk 10 - Nama
+SalesAndRevenue_ProductRevenue10Member,Pendapatan dari produk 10 - Jumlah
+ServiceOrProductName_OtherProductRevenueMember,Pendapatan dari produk lainnya - Nama
+SalesAndRevenue_OtherProductRevenueMember,Pendapatan dari produk lainnya - Jumlah
+SalesAndRevenue_ProductRevenueMember,Pendapatan dari produk
+SalesAndRevenue_CurrentYearDuration,Tipe pendapatan

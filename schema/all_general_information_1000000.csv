@@ -1,0 +1,42 @@
+﻿xbrl_name,formatted_name
+EntityName,Nama entitas
+ExplanationOfChangeInNameFromTheEndOfThePrecedingReportingPeriod,Penjelasan perubahan nama dari akhir periode laporan sebelumnya
+EntityCode,Kode entitas
+EntityIdentificationNumber,Nomor identifikasi entitas
+EntityMainIndustry,Industri utama entitas
+SelectedAccountingStandards,Standar akutansi yang dipilih
+Sector,Sektor
+Subsector,Subsektor
+Industry,Industri
+Subindustry,Subindustri
+ControllingShareholderInformation,Informasi pemegang saham pengendali
+TypeOfEntity,Jenis entitas
+TypeOfListedSecurities,Jenis efek yang dicatatkan
+TypeOfBoardOnWhichTheEntityIsListed,Jenis papan perdagangan tempat entitas tercatat
+WhetherTheFinancialStatementsAreOfAnIndividualEntityOrAGroupOfEntities,Apakah merupakan laporan keuangan satu entitas atau suatu kelompok entitas
+PeriodOfFinancialStatementsSubmissions,Periode penyampaian laporan keuangan
+DateOfBoardOfDirectorsStatementLetter,Tanggal Surat Pernyataan Direksi
+CurrentPeriodStartDate,Tanggal awal periode berjalan
+CurrentPeriodEndDate,Tanggal akhir periode berjalan
+PriorYearEndDate,Tanggal akhir tahun sebelumnya
+PriorPeriodStartDate,Tanggal awal periode sebelumnya
+PriorPeriodEndDate,Tanggal akhir periode sebelumnya
+Prior2YearEndDate,Tanggal akhir 2 tahun sebelumnya
+DescriptionOfPresentationCurrency,Mata uang pelaporan
+ConversionRateAtReportingDateIfPresentationCurrencyIsOtherThanRupiah,Kurs konversi pada tanggal pelaporan jika mata uang penyajian selain rupiah
+LevelOfRoundingUsedInFinancialStatements,Pembulatan yang digunakan dalam penyajian jumlah dalam laporan keuangan
+TypeOfReportOnFinancialStatements,Jenis laporan atas laporan keuangan
+TypeOfAuditorsOpinion,Jenis opini auditor
+MattersDisclosedInEmphasisOfMAtterOrOtherMatterParagraphIfAny,"Hal yang diungkapkan dalam paragraf pendapat untuk penekanan atas suatu masalah atau paragraf penjelasan lainnya, jika ada"
+ResultOfReviewEngagement,Hasil penugasan review
+AnyKeyAuditMattersOpinion,Opini Hal Audit Utama
+TotalKeyAuditMatters,Jumlah Hal Audit Utama
+KeyAuditMattersParagraph,Paragraf Hal Audit Utama
+DateOfAuditorsOpinionOrResultOfReviewReport,Tanggal laporan audit atau hasil laporan review
+CurrentYearAuditor,Auditor tahun berjalan
+NameOfCurrentYearAuditSigningPartner,Nama partner audit tahun berjalan
+NumberOfYearsServedAsAuditSigningPartner,Lama tahun penugasan partner yang menandatangani
+PriorYearAuditor,Auditor tahun sebelumnya
+NameofPriorYearAuditSigningPartner,Nama partner audit tahun sebelumnya
+WhetherInComplianceWithBAPEPAMLKVIIIG11RulesConcerningResponsibilitiesOfBoardOfDirectorsOnFinancialStatements,Kepatuhan terhadap pemenuhan peraturan OJK Nomor: 75/POJK.04/2017 tentang Tanggung Jawab Direksi Atas Laporan Keuangan
+WhetherInComplianceWithBAPEPAMLKVIIIATwoRulesConcerningIndependenceOfAccountantProvidingAuditServicesInCapitalMarket,Kepatuhan terhadap pemenuhan independensi akuntan yang memberikan jasa audit di pasar modal sesuai dengan POJK Nomor 13/POJK.03/2017 tentang Penggunaan Jasa Akuntan Publik dalam Kegiatan Jasa Keuangan

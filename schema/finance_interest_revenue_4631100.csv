@@ -1,0 +1,16 @@
+xbrl_name,formatted_name
+LoansInterestIncome,Kredit yang diberikan
+GovernmentBondsInterestIncome,Obligasi pemerintah
+ConsumerFinancingReceivables-NetInterestIncome,Pendapatan pembiayaan konsumen
+MarketableSecuritiesIncome,Efek-efek
+PlacementsWithBankIndonesiaAndOtherBanksIncome,Penempatan pada Bank Indonesia dan bank lain
+OtherInterestIncome,Lain-lain
+SubtotalInterestIncome,Subjumlah pendapatan bunga
+MurabahahAndIstishnaIncome,Pendapatan keuntungan murabahah dan pendapatan bersih istishna
+MusyrakahProfitSharing,Pendapatan bagi hasil musyarakah
+MudharabahProfitSharing,Pendapatan bagi hasil mudharabah
+UjrahIncomeFromQardhFinancing,Pendapatan ujrah dari pinjaman qardh
+IjarahIncome,Pendapatan bersih ijarah
+OtherShariaIncome,Lain-lain
+SubtotalShariaIncome,Subjumlah pendapatan syariah dan pendapatan pengelolaan dana oleh bank sebagai mudharib
+TotalInterestAndShariaIncome,Pendapatan bunga
