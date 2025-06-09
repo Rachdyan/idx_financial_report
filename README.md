@@ -3,8 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
-
 # IDX_FINANCIAL_REPORT
 
 <em></em>
@@ -45,14 +43,16 @@
 ---
 
 ## Overview
-
-
+A Python tool to download financial reports from the Indonesia Stock Exchange (IDX) website and export them to Excel format.
 
 ---
 
 ## Features
 
-<code>❯ REPLACE-ME</code>
+- Automated scraping of financial reports from [idx.co.id](https://www.idx.co.id)
+- Supports quarterly dan annual financial statements
+- Outputs clean Excel files with structured data
+- Configurable date range filtering
 
 ---
 
@@ -61,108 +61,11 @@
 ```sh
 └── idx_financial_report/
     ├── data
-    │   └── .gitignore
     ├── get_financial_report.ipynb
     ├── result
-    │   ├── .DS_Store
-    │   ├── .gitignore
-    │   ├── ANTM_Financial_Statement.xlsx
-    │   ├── ARCI_Financial_Statement.xlsx
-    │   ├── ARNA_Financial_Statement.xlsx
-    │   ├── ARTO_Financial_Statement_Quarterly.xlsx
-    │   ├── ASII_Financial_Statement.xlsx
-    │   ├── ASII_Financial_Statement_Quarterly.xlsx
-    │   ├── AUTO_Financial_Statement_Quarterly.xlsx
-    │   ├── BBCA_Financial_Statement.xlsx
-    │   ├── BBCA_Financial_Statement_Quarterly.xlsx
-    │   ├── BBNI_Financial_Statement.xlsx
-    │   ├── BBNI_Financial_Statement_Quarterly.xlsx
-    │   ├── BBRI_Financial_Statement.xlsx
-    │   ├── BBYB_Financial_Statement_Quarterly.xlsx
-    │   ├── BMRI_Financial_Statement.xlsx
-    │   ├── BNGA_Financial_Statement.xlsx
-    │   ├── BRMS_Financial_Statement_Quarterly.xlsx
-    │   ├── BUMI_Financial_Statement.xlsx
-    │   ├── DEWA_Financial_Statement.xlsx
-    │   ├── DRMA_Financial_Statement_Quarterly.xlsx
-    │   ├── GEMS_Financial_Statement.xlsx
-    │   ├── HAIS_Financial_Statement.xlsx
-    │   ├── HRUM_Financial_Statement.xlsx
-    │   ├── INDY_Financial_Statement.xlsx
-    │   ├── KMTR_Financial_Statement_Quarterly.xlsx
-    │   ├── NCKL_Financial_Statement.xlsx
-    │   ├── NICL_Financial_Statement.xlsx
-    │   ├── NISP_Financial_Statement.xlsx
-    │   ├── NISP_Financial_Statement_Quarterly.xlsx
-    │   ├── NOBU_Financial_Statement.xlsx
-    │   ├── NOBU_Financial_Statement_Quarterly.xlsx
-    │   ├── PSAB_Financial_Statement.xlsx
-    │   ├── PTBA_Financial_Statement.xlsx
-    │   ├── SMSM_Financial_Statement.xlsx
-    │   ├── SUNI_Financial_Statement.xlsx
-    │   ├── TBLA_Financial_Statement.xlsx
-    │   ├── TBLA_Financial_Statement_Quarterly.xlsx
-    │   ├── ~$ANTM_Financial_Statement.xlsx
-    │   ├── ~$BBNI_Financial_Statement_Quarterly.xlsx
-    │   ├── ~$BBYB_Financial_Statement_Quarterly.xlsx
-    │   ├── ~$BRMS_Financial_Statement_Quarterly.xlsx
-    │   ├── ~$KMTR_Financial_Statement_Quarterly.xlsx
-    │   └── ~$TBLA_Financial_Statement_Quarterly.xlsx
     ├── schema
-    │   ├── .DS_Store
-    │   ├── all_general_information_1000000.csv
-    │   ├── finance_accounting_policy_4610000.csv
-    │   ├── finance_balance_sheet_4220000.csv
-    │   ├── finance_cash_flow_4510000.csv
-    │   ├── finance_credit_currency_4611100a.csv
-    │   ├── finance_credit_other_4614100.csv
-    │   ├── finance_credit_sector_4613100a.csv
-    │   ├── finance_credit_type_4612100a.csv
-    │   ├── finance_deposit_interest_4624100.csv
-    │   ├── finance_deposito_4623100.csv
-    │   ├── finance_giro_4621100.csv
-    │   ├── finance_income_statement_4312000.csv
-    │   ├── finance_interest_expense_4632100.csv
-    │   ├── finance_interest_revenue_4631100.csv
-    │   ├── finance_savings_4622100.csv
-    │   ├── general_accounting_policy_1610000.csv
-    │   ├── general_balance_sheet_1210000.csv
-    │   ├── general_cash_flow_1510000.csv
-    │   ├── general_cogs_1670000.csv
-    │   ├── general_cogs_notes_1671000.csv
-    │   ├── general_income_statement_1321000.csv
-    │   ├── general_inventory_1630000.csv
-    │   ├── general_inventory_notes_1632000.csv
-    │   ├── general_lt_bank_interest_1692000.csv
-    │   ├── general_lt_bank_loan_notes_1691100.csv
-    │   ├── general_lt_bank_loans_value_169100a.csv
-    │   ├── general_payable_by_aging_1640200.csv
-    │   ├── general_payable_by_currency_1640100.csv
-    │   ├── general_payable_by_parties_1640300.csv
-    │   ├── general_receivable_allowances_1620500.csv
-    │   ├── general_receivable_by_aging_1620200.csv
-    │   ├── general_receivable_by_area_1620400.csv
-    │   ├── general_receivable_by_currency_1620100.csv
-    │   ├── general_receivable_by_parties_1620300.csv
-    │   ├── general_revenue_10percent_1619000.csv
-    │   ├── general_revenue_by_parties_1616000.csv
-    │   ├── general_revenue_by_sources_1618000.csv
-    │   ├── general_revenue_by_type_1617000.csv
-    │   ├── general_st_bank_interest_1696000.csv
-    │   ├── general_st_bank_loan_notes_1693100.csv
-    │   └── general_st_bank_loans_value_1693000.csv
     ├── template
-    │   ├── .DS_Store
-    │   ├── .gitignore
-    │   ├── Financial_Company_Template.xlsx
-    │   └── General_Company_Template.xlsx
     └── utils
-        ├── __init__.py
-        ├── __pycache__
-        ├── download_handler.py
-        ├── excel_handler.py
-        ├── ordered_name.py
-        └── xbrl_handler.py
 ```
 
 ### Project Index
@@ -251,27 +154,19 @@ Build idx_financial_report from the source and intsall dependencies:
 
 3. **Install the dependencies:**
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
+pip install -r requirements.txt
 
 ### Usage
 
-Run the project with:
+Launch the notebook with:
 
-echo 'INSERT-RUN-COMMAND-HERE'
-
-### Testing
-
-Idx_financial_report uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
+jupyter notebook get_financial_report.ipynb
 
 ---
 
 ## Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+- [ ] **`Task 1`**: Add support for other industries (Propreti, Infrastruktur, Financing, Asuransi, Sekuritas).
 
 ---
 
@@ -324,9 +219,9 @@ Idx_financial_report is protected under the [LICENSE](https://choosealicense.com
 
 ---
 
-## Acknowledgments
+## Disclaimer
 
-- Credit `contributors`, `inspiration`, `references`, etc.
+This tool is for educational purposes only. Always verify data with official sources before making financial decisions. The maintainers are not responsible for data accuracy or usage consequences.
 
 <div align="right">
 
